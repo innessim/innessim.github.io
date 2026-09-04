@@ -1,22 +1,23 @@
 /* ==========================================================================
-   Dark skin
+   Badwolf skin
+   Derived from the "badwolf" Vim colorscheme by Steve Losh
+   https://github.com/sjl/badwolf
    ========================================================================== */
-
 /* Colors */
-$background-color: #252a34 !default;
-$text-color: #eaeaea !default;
-$primary-color: #00adb5 !default;
-$border-color: mix(#fff, $background-color, 20%) !default;
-$code-background-color: mix(#000, $background-color, 15%) !default;
-$code-background-color-dark: mix(#000, $background-color, 20%) !default;
-$form-background-color: mix(#000, $background-color, 15%) !default;
-$footer-background-color: mix(#000, $background-color, 30%) !default;
-$link-color: mix($primary-color, $text-color, 40%) !default;
-$link-color-hover: mix(#fff, $link-color, 25%) !default;
-$link-color-visited: mix(#000, $link-color, 25%) !default;
+$background-color: #1c1b1a !default;              /* blackgravel */
+$text-color: #d9cec3 !default;                     /* brightgravel */
+$primary-color: #f4cf86 !default;                  /* dirtyblonde */
+$border-color: #45413b !default;                   /* deepgravel */
+$code-background-color: #242321 !default;          /* darkgravel */
+$code-background-color-dark: #35322d !default;      /* deepergravel */
+$form-background-color: #242321 !default;          /* darkgravel */
+$footer-background-color: #141413 !default;         /* blackestgravel */
+$link-color: #c7915b !default;                      /* coffee */
+$link-color-hover: #ffa724 !default;                 /* orange */
+$link-color-visited: #f4cf86 !default;               /* dirtyblonde */
 $masthead-link-color: $text-color !default;
-$masthead-link-color-hover: mix(#000, $text-color, 20%) !default;
-$navicon-link-color-hover: mix(#000, $background-color, 30%) !default;
+$masthead-link-color-hover: $primary-color !default;
+$navicon-link-color-hover: $code-background-color-dark !default;
 
 .author__urls.social-icons i,
 .author__urls.social-icons .svg-inline--fa,
@@ -24,7 +25,13 @@ $navicon-link-color-hover: mix(#000, $background-color, 30%) !default;
 .page__footer-follow .social-icons .svg-inline--fa  {
   color: inherit;
 }
-
 .ais-search-box .ais-search-box--input {
   background-color: $form-background-color;
+}
+
+/* The base theme only underlines .page__content links on hover, it never
+   changes their color. Restore it so link-color-hover actually does
+   something on body text links. */
+.page__content a:not(.btn):hover {
+  color: $link-color-hover;
 }
