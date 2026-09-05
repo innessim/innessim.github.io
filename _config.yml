@@ -114,7 +114,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Simon Innes"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am an **amazing** person."
   location         : "Somewhere"
@@ -123,13 +123,13 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-square-envelope"
-      # url: "mailto:simon.innesz@gmail.com"
+      url: "mailto:simon.innesz@gmail.com"
     - label: "Google Scholar"
       icon: "fas fa-fw fa-link"
-      # url: "https://scholar.google.com/citations?user=mTv57KsAAAAJ&hl=en&oi=ao"
+      url: "https://scholar.google.com/citations?user=mTv57KsAAAAJ&hl=en&oi=ao"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/innessim"
+      url: "https://github.com/innessim"
 
 # Site Footer
 footer:
