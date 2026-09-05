@@ -114,9 +114,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Simon Innes"
+  name             : ""
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  bio              : "Postdoctoral Researcher in the Kooyers Lab"
   location         : "Somewhere"
   email            :
   # fediverse      : "@you@instance.social"  # used for fediverse:creator meta tag
