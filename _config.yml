@@ -17,8 +17,8 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 # Site Settings
 locale                   : "en-US"
 direction                : # "ltr" (default), "rtl" # set the direction of the page
-title                    : "Postdoctoral Researcher | Simon Innes, PhD"
-title_separator          : "-"
+title                    : "Postdoctoral Researcher"
+title_separator          : "|"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Simon Innes"
 description              : "An amazing website."
