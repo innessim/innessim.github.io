@@ -22,7 +22,7 @@ title_separator          : "|"
 tagline                  : "Simon Innes, PhD" # <title> tag tagline (SEO plugin-specific)
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Simon Innes"
-description              : ""
+description              : "Postdoctoral researcher studying ecology and evolutionary biology"
 url                      : "https://innessim.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
