@@ -19,7 +19,8 @@ locale                   : "en-US"
 direction                : # "ltr" (default), "rtl" # set the direction of the page
 title                    : "Postdoctoral Researcher"
 title_separator          : "|"
-subtitle                 : "Simon Innes, PhD" # site tagline that appears below site title in masthead
+tagline                  : "Simon Innes, PhD" # <title> tag tagline (SEO plugin-specific)
+subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Simon Innes"
 description              : ""
 url                      : "https://innessim.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
