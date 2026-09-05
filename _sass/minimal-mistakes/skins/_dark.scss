@@ -1,5 +1,5 @@
 /* ==========================================================================
-   Badwolf skin
+   Dark skin — Badwolf palette
    Derived from the "badwolf" Vim colorscheme by Steve Losh
    https://github.com/sjl/badwolf
    ========================================================================== */
@@ -34,4 +34,16 @@ $navicon-link-color-hover: $code-background-color-dark !default;
    something on body text links. */
 .page__content a:not(.btn):hover {
   color: $link-color-hover;
+}
+
+/* Bring the primary accent (dirtyblonde) into body content headings,
+   not just the masthead */
+.page__content h1,
+.page__content h2,
+.page__content h3,
+.page__content h4,
+.page__content h5,
+.page__content h6,
+.page__title {
+  color: $primary-color;
 }
