@@ -17,9 +17,9 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 # Site Settings
 locale                   : "en-US"
 direction                : # "ltr" (default), "rtl" # set the direction of the page
-title                    : "Postdoctoral Researcher | Simon Innes, PhD"
+title                    : "Postdoctoral Researcher"
 title_separator          : "|"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : "Simon Innes, PhD" # site tagline that appears below site title in masthead
 name                     : "Simon Innes"
 description              : ""
 url                      : "https://innessim.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
