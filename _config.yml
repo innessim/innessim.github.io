@@ -17,11 +17,11 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 # Site Settings
 locale                   : "en-US"
 direction                : # "ltr" (default), "rtl" # set the direction of the page
-title                    : "Postdoctoral Researcher"
+title                    : "Postdoctoral Researcher | Simon Innes, PhD"
 title_separator          : "|"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Simon Innes"
-description              : "An amazing website."
+description              : ""
 url                      : "https://innessim.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -117,7 +117,7 @@ author:
   name             : ""
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Postdoctoral Researcher in the Kooyers Lab"
-  location         : "Somewhere"
+  location         : "University of Louisiana at Lafayette"
   email            :
   # fediverse      : "@you@instance.social"  # used for fediverse:creator meta tag
   links:
