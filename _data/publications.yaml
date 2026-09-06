@@ -11,11 +11,11 @@
 #   url      - link to the paper (DOI, journal page, PDF, etc.)
 
 - year: 2026
-  authors: "Author, A., Author, B., & Innes, S."
-  title: "Title of the paper goes here"
-  journal: "Journal Name"
-  volume: "12(3)"
-  pages: "100-110"
+  authors: "Lucas J. Albano, Cristina C. Bastias, Aurélien Estarague, Brandon T. Hendrickson, Simon G. Innes, Nevada King, Courtney M. Patterson, Amelia Tudoran, François Vasseur, Adriana Puentes, Cyrille Violle, Nicholas J. Kooyers, Marc T. J. Johnson"
+  title: "A transcontinental experiment elucidates (mal)adaptation of a cosmopolitan plant to climate in space and time"
+  journal: "Ecological monographs"
+  volume: "96(1)"
+  pages: "e70043"
   url: "https://doi.org/example"
 
 - year: 2025
