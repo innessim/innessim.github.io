@@ -4,7 +4,7 @@
   <ul>
     {% for pub in group.items %}
       <li>
-        {{ pub.authors }} ({{ pub.year }}). {{ pub.title }}.
+        {{ pub.authors | replace: "Simon G. Innes", "<strong>Simon G. Innes</strong>"}} ({{ pub.year }}). {{ pub.title }}.
         <em>{{ pub.journal }}</em>{% if pub.volume %}, {{ pub.volume }}{% endif %}{% if pub.pages %}, {{ pub.pages }}{% endif %}.
         {% if pub.url %} <a href="{{ pub.url }}" target="_blank" rel="noopener">[Link]</a>{% endif %}
       </li>
