@@ -1,0 +1,12 @@
+{% assign courses_by_year = site.data.courses | group_by: "year" | sort: "name" | reverse %}
+{% for group in courses_by_year %}
+  <h3>{{ group.name }}</h3>
+  <ul>
+    {% for course in group.items %}
+      <li>
+        <strong>{{ course.code }} — {{ course.title }}</strong> ({{ course.term }}){% if course.role %}, {{ course.role }}{% endif %}
+        {% if course.description %}<br>{{ course.description }}{% endif %}
+      </li>
+    {% endfor %}
+  </ul>
+{% endfor %}
