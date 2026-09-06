@@ -7,7 +7,7 @@ classes: wide
 ---
 
 ## Invited talks
-{% include invited-list.html %}
+{% include invited.html %}
 
 ## Contributed presentations
-{% include contributed-list.html %}
+{% include contributed.html %}
