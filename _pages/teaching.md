@@ -6,4 +6,4 @@ title: "Teaching"
 classes: wide
 ---
 
-{% include courses-list.html %}
+{% include courses.html %}
