@@ -6,4 +6,4 @@ title: "Publications"
 classes: wide
 ---
 
-{% include publications-list.html %}
+{% include publications.html %}
