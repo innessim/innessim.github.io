@@ -1,13 +1,19 @@
 {% assign pubs_by_year = site.data.publications | group_by: "year" | sort: "name" | reverse %}
 {% for group in pubs_by_year %}
   <h3>{{ group.name }}</h3>
-  <ul>
-    {% for pub in group.items %}
+  <ol reversed="reversed">
+    {% for paper in group.items %}
       <li>
-        {{ pub.authors | replace: "Simon G. Innes", "<strong>Simon G. Innes</strong>"}} ({{ pub.year }}). {{ pub.title }}.
-        <em>{{ pub.journal }}</em>{% if pub.volume %}, {{ pub.volume }}{% endif %}{% if pub.pages %}, {{ pub.pages }}{% endif %}.
-        {% if pub.url %} <a href="{{ pub.url }}" target="_blank" rel="noopener">[Link]</a>{% endif %}
+        <p>
+          {{ paper.authors | replace: "Simon G. Innes", "<strong>Simon G. Innes</strong>" }}.
+          {{ paper.year }}.
+          {{ paper.title | markdownify | remove: "<p>" | remove: "</p>" | strip }},
+          <em>{{ paper.journal }}</em>{% if paper.volume %} <strong>{{ paper.volume }}</strong>{% if paper.issue %}({{ paper.issue }}){% endif %}:{% endif %} {{ paper.pages }}.
+          {% if paper.pdf-url %}<a href="{{ paper.pdf-url }}" target="_blank" rel="noopener"><i class="fa-solid fa-file-pdf"></i></a>{% endif %}
+          {% if paper.data-url %}<a href="{{ paper.data-url }}" target="_blank" rel="noopener"><i class="fa-solid fa-database"></i></a>{% endif %}
+          {% if paper.github %}<a href="{{ paper.github }}" target="_blank" rel="noopener"><i class="fa-brands fa-github"></i></a>{% endif %}
+        </p>
       </li>
     {% endfor %}
-  </ul>
+  </ol>
 {% endfor %}
