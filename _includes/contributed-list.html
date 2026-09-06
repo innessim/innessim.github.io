@@ -1,0 +1,12 @@
+{% assign items_by_year = site.data.contributed | group_by: "date" | sort: "name" | reverse %}
+{% for group in items_by_year %}
+  <h3>{{ group.name }}</h3>
+  <ul>
+    {% for talk in group.items %}
+      <li>
+        {{ talk.title }}{% if talk.type %} ({{ talk.type }}){% endif %} — <em>{{ talk.event }}</em>, {{ talk.location }}.
+        {% if talk.url %} <a href="{{ talk.url }}" target="_blank" rel="noopener">[Link]</a>{% endif %}
+      </li>
+    {% endfor %}
+  </ul>
+{% endfor %}
