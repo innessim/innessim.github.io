@@ -48,3 +48,11 @@ $nav-underline-color: #88633f !default;              /* darkroast — used only 
 .page__title {
   color: $primary-color;
 }
+
+/* Hide the visible page title heading on the homepage only (identified by
+   a custom "classes: home-page" set in its front matter) — it still exists
+   in the HTML (so the browser tab title still works correctly), just not
+   shown visually above the homepage content. */
+body.home-page #page-title {
+  display: none;
+}
