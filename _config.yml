@@ -114,10 +114,10 @@ analytics:
 
 # Site Author
 author:
-  name             : ""
+  name             : "Simon Innes, PhD"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "School of Biological Sciences, University of Louisiana at Lafayette"
-  location         : "University of Louisiana at Lafayette"
+  location         : "Lafayette, LA"
   email            :
   # fediverse      : "@you@instance.social"  # used for fediverse:creator meta tag
   links:
