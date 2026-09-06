@@ -1,0 +1,23 @@
+# One entry per course. Sorted newest first automatically.
+#
+# Fields:
+#   code        - course code, e.g. "BIO 340"
+#   title       - course title
+#   term        - "Fall", "Spring", "Summer"
+#   year        - year taught (used for grouping/sorting)
+#   role        - "Instructor", "Teaching Assistant", "Guest Lecturer", etc.
+#   description - one or two sentences on the course (optional)
+
+- code: "BIO 340"
+  title: "Course Name"
+  term: "Fall"
+  year: 2026
+  role: "Instructor"
+  description: "A sentence describing the course."
+
+- code: "BIO 512"
+  title: "Course Name"
+  term: "Spring"
+  year: 2026
+  role: "Instructor"
+  description: "A sentence describing the course."
