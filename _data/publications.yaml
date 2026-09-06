@@ -2,13 +2,16 @@
 # groups and sorts by year, newest year first, so you never need to manually
 # position a new entry in this file.
 #
+# Your name (Simon G. Innes) is automatically bolded wherever it appears in
+# the authors field — just type it normally, no special formatting needed.
 #
 # Fields:
-#   authors   - author list, plain string (wrap your name in __ __ to bold it)
+#   authors   - author list, plain string, e.g. "Author, A. & Innes, S.G."
 #   title     - paper title
 #   journal   - journal name
 #   year      - publication year (used for grouping/sorting)
-#   volume    - volume/issue, e.g. "42" or "12(3)" (optional)
+#   volume    - volume number only, e.g. "12" (bolded automatically; optional)
+#   issue     - issue number, e.g. "3" (shown plain in parentheses after volume; optional)
 #   pages     - page range, e.g. "100-110" (optional)
 #   pdf-url   - link to a PDF (optional, shows a PDF icon)
 #   data-url  - link to a data repository, e.g. Zenodo/Dryad (optional, shows a database icon)
@@ -19,25 +22,11 @@
   title: "A transcontinental experiment elucidates (mal)adaptation of a cosmopolitan plant to climate in space and time"
   journal: "Ecological monographs"
   year: 2026
-  volume: "96(1)"
+  volume: "96"
+  issue: "1"
   pages: "e70043"
   pdf-url:
   data-url:
   github:
   openaccess: false
 
-- year: 2026
-  authors: "Lucas J. Albano, Cristina C. Bastias, Aurélien Estarague, Brandon T. Hendrickson, Simon G. Innes, Nevada King, Courtney M. Patterson, Amelia Tudoran, François Vasseur, Adriana Puentes, Cyrille Violle, Nicholas J. Kooyers, Marc T. J. Johnson"
-  title: "A transcontinental experiment elucidates (mal)adaptation of a cosmopolitan plant to climate in space and time"
-  journal: "Ecological monographs"
-  volume: "96(1)"
-  pages: "e70043"
-  url: "https://doi.org/example"
-
-- year: 2025
-  authors: "Innes, S., Author, A., & Author, B."
-  title: "Title of another paper goes here"
-  journal: "Journal Name"
-  volume: "8(1)"
-  pages: "45-60"
-  url: "https://doi.org/example2"
