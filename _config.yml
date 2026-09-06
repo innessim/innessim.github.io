@@ -135,10 +135,10 @@ author:
 footer:
   links:
     - label: "GitHub"
-      icon: "fab fa-fw fa-google-scholar"
+      icon: "fab fa-fw fa-github"
       url: "https://github.com/innessim"
     - label: "Scholar"
-      icon: "fas fa-fw fa-link"
+      icon: "fas fa-fw fa-google-scholar"
       url: "https://scholar.google.com/citations?user=mTv57KsAAAAJ&hl=en&oi=ao"
   since: "2013"
 
