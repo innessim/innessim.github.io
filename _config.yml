@@ -136,7 +136,7 @@ footer:
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "github.com/innessim"
+      url: "https://github.com/innessim"
     - label: "Scholar"
       icon: "fas fa-fw fa-link"
       url: "https://scholar.google.com/citations?user=mTv57KsAAAAJ&hl=en&oi=ao"
