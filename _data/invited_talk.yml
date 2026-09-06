@@ -1,0 +1,14 @@
+# One entry per invited talk. Sorted newest first automatically.
+#
+# Fields:
+#   title    - talk title
+#   event    - name of the seminar series, department, or invited event
+#   location - city/institution, or "Virtual"
+#   date     - year (or "Month Year" if you want more precision)
+#   url      - optional link (slides, video, event page)
+
+- title: "Talk title goes here"
+  event: "Seminar Series, Department Name, University Name"
+  location: "City, State/Country"
+  date: "2026"
+  url:
