@@ -134,13 +134,12 @@ author:
 # Site Footer
 footer:
   links:
-      # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
-    - label: "Google Scholar"
+      url: "github.com/innessim"
+    - label: "Scholar"
       icon: "fas fa-fw fa-link"
-      # url: "https://scholar.google.com/citations?user=mTv57KsAAAAJ&hl=en&oi=ao"
+      url: "https://scholar.google.com/citations?user=mTv57KsAAAAJ&hl=en&oi=ao"
   since: "2013"
 
 
