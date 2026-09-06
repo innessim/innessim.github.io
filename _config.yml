@@ -19,7 +19,7 @@ locale                   : "en-US"
 direction                : # "ltr" (default), "rtl" # set the direction of the page
 title                    : "Simon Innes, PhD"
 title_separator          : "|"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : "Postdoctoral Researcher" # site tagline that appears below site title in masthead
 name                     : "Simon Innes"
 description              : "Postdoctoral Researcher"
 url                      : "https://innessim.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -116,7 +116,7 @@ analytics:
 author:
   name             : ""
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Postdoctoral Researcher in the Kooyers Lab"
+  bio              : "School of Biological Sciences, University of Louisiana at Lafayette"
   location         : "University of Louisiana at Lafayette"
   email            :
   # fediverse      : "@you@instance.social"  # used for fediverse:creator meta tag
