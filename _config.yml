@@ -125,7 +125,7 @@ author:
       icon: "fas fa-fw fa-square-envelope"
       url: "mailto:simon.innesz@gmail.com"
     - label: "Google Scholar"
-      icon: "fas fa-fw fa-link"
+      icon: "fab fa-fw fa-google-scholar"
       url: "https://scholar.google.com/citations?user=mTv57KsAAAAJ&hl=en&oi=ao"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
@@ -140,7 +140,7 @@ footer:
     - label: "Scholar"
       icon: "fab fa-fw fa-google-scholar"
       url: "https://scholar.google.com/citations?user=mTv57KsAAAAJ&hl=en&oi=ao"
-  since: "2013"
+  since: "2026"
 
 
 # Reading Files
