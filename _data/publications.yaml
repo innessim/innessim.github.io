@@ -1,14 +1,30 @@
-# Add one new entry per publication. Newest first isn't required — the
-# include automatically groups and sorts by year, newest year on top.
+# Add one new entry per publication, in any order — the include automatically
+# groups and sorts by year, newest year first, so you never need to manually
+# position a new entry in this file.
+#
 #
 # Fields:
-#   year     - publication year (used for grouping/sorting)
-#   authors  - full author list as a plain string, formatted however you like
-#   title    - paper title
-#   journal  - journal name
-#   volume   - volume/issue, e.g. "42(3)"
-#   pages    - page range, e.g. "100-110"
-#   url      - link to the paper (DOI, journal page, PDF, etc.)
+#   authors   - author list, plain string (wrap your name in __ __ to bold it)
+#   title     - paper title
+#   journal   - journal name
+#   year      - publication year (used for grouping/sorting)
+#   volume    - volume/issue, e.g. "42" or "12(3)" (optional)
+#   pages     - page range, e.g. "100-110" (optional)
+#   pdf-url   - link to a PDF (optional, shows a PDF icon)
+#   data-url  - link to a data repository, e.g. Zenodo/Dryad (optional, shows a database icon)
+#   github    - link to code repository (optional, shows a GitHub icon)
+#   openaccess - true/false (optional, reserved for a future open-access icon)
+ 
+- authors: "Lucas J. Albano, Cristina C. Bastias, Aurélien Estarague, Brandon T. Hendrickson, Simon G. Innes, Nevada King, Courtney M. Patterson, Amelia Tudoran, François Vasseur, Adriana Puentes, Cyrille Violle, Nicholas J. Kooyers, Marc T. J. Johnson"
+  title: "A transcontinental experiment elucidates (mal)adaptation of a cosmopolitan plant to climate in space and time"
+  journal: "Ecological monographs"
+  year: 2026
+  volume: "96(1)"
+  pages: "e70043"
+  pdf-url:
+  data-url:
+  github:
+  openaccess: false
 
 - year: 2026
   authors: "Lucas J. Albano, Cristina C. Bastias, Aurélien Estarague, Brandon T. Hendrickson, Simon G. Innes, Nevada King, Courtney M. Patterson, Amelia Tudoran, François Vasseur, Adriana Puentes, Cyrille Violle, Nicholas J. Kooyers, Marc T. J. Johnson"
