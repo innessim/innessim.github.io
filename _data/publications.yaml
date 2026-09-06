@@ -1,0 +1,27 @@
+# Add one new entry per publication. Newest first isn't required — the
+# include automatically groups and sorts by year, newest year on top.
+#
+# Fields:
+#   year     - publication year (used for grouping/sorting)
+#   authors  - full author list as a plain string, formatted however you like
+#   title    - paper title
+#   journal  - journal name
+#   volume   - volume/issue, e.g. "42(3)"
+#   pages    - page range, e.g. "100-110"
+#   url      - link to the paper (DOI, journal page, PDF, etc.)
+
+- year: 2026
+  authors: "Author, A., Author, B., & Innes, S."
+  title: "Title of the paper goes here"
+  journal: "Journal Name"
+  volume: "12(3)"
+  pages: "100-110"
+  url: "https://doi.org/example"
+
+- year: 2025
+  authors: "Innes, S., Author, A., & Author, B."
+  title: "Title of another paper goes here"
+  journal: "Journal Name"
+  volume: "8(1)"
+  pages: "45-60"
+  url: "https://doi.org/example2"
