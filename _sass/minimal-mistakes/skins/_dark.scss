@@ -82,3 +82,8 @@ body.home-page #page-title {
 .presentation-venue {
   color: $link-color;
 }
+
+/* Enlarge the sidebar headshot beyond the theme's default 110px */
+.author__avatar img {
+  max-width: 175px;
+}
