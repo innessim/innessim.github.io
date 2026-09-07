@@ -121,15 +121,18 @@ author:
   email            :
   # fediverse      : "@you@instance.social"  # used for fediverse:creator meta tag
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-square-envelope"
-      url: "mailto:simon.innesz@gmail.com"
     - label: "Google Scholar"
       icon: "fab fa-fw fa-google-scholar"
       url: "https://scholar.google.com/citations?user=mTv57KsAAAAJ&hl=en&oi=ao"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/innessim"
+    - label: "ORCID"
+      icon: "fab fa-fw fa-orcid"
+      url: "https://orcid.org/0000-0003-3859-1400"
+    - label: "Email"
+      icon: "fas fa-fw fa-square-envelope"
+      url: "mailto:simon.innesz@gmail.com"
 
 # Site Footer
 footer:
