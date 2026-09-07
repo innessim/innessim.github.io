@@ -5,6 +5,8 @@
 # Your name is automatically bolded (includes/publications.html) wherever it appears in
 # the authors field — just type it normally, no special formatting needed.
 #
+# Scientific names in titles must still be manually italicized with _ _ or * *.
+#
 # Fields:
 #   authors   - author list, plain string, e.g. "Author, A. & Innes, S.G."
 #   title     - paper title
