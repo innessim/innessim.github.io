@@ -1,7 +1,9 @@
+{% assign total = site.data.publications | size %}
+{% assign remaining = total %}
 {% assign pubs_by_year = site.data.publications | group_by: "year" | sort: "name" | reverse %}
 {% for group in pubs_by_year %}
   <h3>{{ group.name }}</h3>
-  <ol reversed="reversed">
+  <ol start="{{ remaining }}" reversed="reversed">
     {% for paper in group.items %}
       <li>
         <p>
@@ -17,4 +19,5 @@
       </li>
     {% endfor %}
   </ol>
+  {% assign remaining = remaining | minus: group.items.size %}
 {% endfor %}
