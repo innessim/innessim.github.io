@@ -5,7 +5,7 @@
     {% for poster in group.items %}
       <li>
         {{ poster.authors | replace: "Simon G. Innes", "<strong>Simon G. Innes</strong>" }}.
-        {{ poster.title }} — <em>{{ poster.event }}</em>, {{ poster.location }}.
+        {{ poster.title | markdownify | remove: "<p>" | remove: "</p>" | strip }} — <em>{{ poster.event }}</em>, {{ poster.location }}.
         {% if poster.url %} <a href="{{ poster.url }}" target="_blank" rel="noopener">[Link]</a>{% endif %}
       </li>
     {% endfor %}
