@@ -6,9 +6,9 @@ title: "Conference Presentations and Posters"
 classes: wide
 ---
 
-## Contributed presentations
+## Talks
 {% include contributed.html %}
 
 
-## Invited talks
+## Posters
 {% include invited.html %}
