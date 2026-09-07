@@ -87,5 +87,5 @@ body.home-page #page-title {
    Extra specificity (.sidebar.sticky) needed since the theme's own rule
    loads after ours and would otherwise win at equal specificity. */
 .sidebar.sticky .author__avatar img {
-  max-width: 220px;
+  max-width: 250px;
 }
