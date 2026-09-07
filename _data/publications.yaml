@@ -2,7 +2,7 @@
 # groups and sorts by year, newest year first, so you never need to manually
 # position a new entry in this file.
 #
-# Your name is automatically bolded wherever it appears in
+# Your name is automatically bolded (includes/publications.html) wherever it appears in
 # the authors field — just type it normally, no special formatting needed.
 #
 # Fields:
@@ -13,6 +13,7 @@
 #   volume    - volume number only, e.g. "12" (bolded automatically; optional)
 #   issue     - issue number, e.g. "3" (shown plain in parentheses after volume; optional)
 #   pages     - page range, e.g. "100-110" (optional)
+#   doi-url   - link to the official journal/DOI page (optional, shows a link icon)
 #   pdf-url   - link to a PDF (optional, shows a PDF icon)
 #   data-url  - link to a data repository, e.g. Zenodo/Dryad (optional, shows a database icon)
 #   github    - link to code repository (optional, shows a GitHub icon)
@@ -25,8 +26,20 @@
   volume: "96"
   issue: "1"
   pages: "e70043"
+  doi-url:
   pdf-url:
   data-url:
   github:
   openaccess: false
 
+- authors: "Donna M Hinrichs, Courtney M Patterson, Andrea Turcu, Stacy D Holt Jr, Simon G Innes, Nicholas J Kooyers"
+  title: "Rapid adaptation follows experimental assisted gene flow in subset of annual monkeyflower populations"
+  journal: "bioRxiv"
+  year: 2025
+  volume: ""
+  issue: ""
+  pages: ""
+  pdf-url: "https://doi.org/10.64898/2025.12.02.689336"
+  data-url:
+  github:
+  openaccess: false
