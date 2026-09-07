@@ -8,6 +8,12 @@
 #   location - city, or "Virtual"
 #   url      - optional link (poster PDF, abstract)
 
+- date: 2025
+  authors: "Gabriella M. Ashley, Simon G. Innes, Nicholas J. Kooyers"
+  title: "Photoperiod and vernalization responses generate variation in flowering time in _Mimulus moschatus_"
+  event: "Biology Undergraduate Research Symposium"
+  location: "Lafayette, LA"
+
 - date: 2024
   authors: "Simon G. Innes, Liza M. Holeski, Nicholas J. Kooyers"
   title: "Intraspecific variation along environmental gradients in _Mimulus moschatus_"
