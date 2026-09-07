@@ -1,11 +1,9 @@
 {% assign courses_sorted = site.data.courses | sort: "year" | reverse %}
-
 <ul>
   {% for course in courses_sorted %}
     <li>
-      <strong>{{ course.terms }}</strong><br>
-      <strong>{{ course.role }}</strong>, <em>{{ course.title }}</em> ({{ course.code }})<br>
-      {{ course.institution }}
+      <strong>{{ course.code }} — {{ course.title }}</strong> ({{ course.terms }}){% if course.role %}, {{ course.role }}{% endif %}{% if course.institution %}, {{ course.institution }}{% endif %}
+      {% if course.description %}<br>{{ course.description }}{% endif %}
     </li>
   {% endfor %}
 </ul>
