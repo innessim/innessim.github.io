@@ -89,3 +89,9 @@ body.home-page #page-title {
 .sidebar.sticky .author__avatar img {
   max-width: 250px;
 }
+
+/* Left-align the avatar to match the left-aligned name/bio/links below it
+   (the theme centers it by default) */
+.sidebar.sticky .author__avatar {
+  text-align: left;
+}
