@@ -30,7 +30,7 @@
   issue: "1"
   pages: "e70043"
   doi-url: "https://doi.org/10.1002/ecm.70043"
-  pdf-url:
+  pdf-url: /files/Albano_2026.pdf
   data-url:
   github:
   openaccess: false
@@ -82,7 +82,7 @@
   issue: "8"
   pages: "1441-1455"
   doi-url: "https://doi.org/10.1038/s41559-025-02751-2"
-  pdf-url:
+  pdf-url: /files/Battlay-Hendrickson.pdf
   data-url:
   github:
   openaccess: false
@@ -108,7 +108,7 @@
   issue: "6586"
   pages: "1275-1281"
   doi-url: "https://doi.org/10.1126/science.abk0989"
-  pdf-url:
+  pdf-url: /files/Santangelo_2022.pdf
   data-url:
   github:
   openaccess: false
