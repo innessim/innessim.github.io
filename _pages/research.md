@@ -16,7 +16,7 @@ Speciation is one of the fundamental processes generating biodiversity, yet rela
 [brief description of the *M. moschatus* work and main result plus the species comparison from JEC pub]
 
 **Continued adaptation to climatic gradients**<br>
-Our work in *Trifolium repens* examined whether climate-associated clines in cyanogenesis have shifted over six decades in native and introduced ranges. Although we found no clear evidence that warming has consistently shifted these clines through time, introduced populations showed continued adaptation to contemporary temperature gradients, with stronger contemporary clines approaching those found in the native range.
+Our work in *Trifolium repens* examined whether climate-associated clines in cyanogenesis have shifted over six decades in its native and introduced ranges. Although we found no clear evidence that warming has consistently shifted these clines through time, introduced populations showed continued adaptation to contemporary temperature gradients, with stronger contemporary clines approaching those found in the native range.
 
 **Rapid adaptation across climatic gradients**<br>
 In a transcontinental common-garden experiment spanning four continents, I contributed to research examining local adaptation to climatic variation in native and introduced populations of *T. repens*. We found evidence of rapid local adaptation across latitudinal gradients in the introduced range, alongside an adaptation cost when populations were transplanted back into the native range. Introduced populations also showed an adaptation lag relative to recent climate change, suggesting that rapid evolutionary responses may nevertheless fail to keep pace with changing environments.
