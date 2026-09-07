@@ -4,7 +4,8 @@
   <ul>
     {% for talk in group.items %}
       <li>
-        {{ talk.title }}{% if talk.type %} ({{ talk.type }}){% endif %} — <em>{{ talk.event }}</em>, {{ talk.location }}.
+        {{ talk.authors | replace: "Simon G. Innes", "<strong>Simon G. Innes</strong>" }}.
+        {{ talk.title }} — <em>{{ talk.event }}</em>, {{ talk.location }}.
         {% if talk.url %} <a href="{{ talk.url }}" target="_blank" rel="noopener">[Link]</a>{% endif %}
       </li>
     {% endfor %}
