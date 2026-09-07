@@ -9,16 +9,16 @@ author_profile: true
 
 ## Education
 
-**PhD, Environmental and Evolutionary Biology**
+**PhD, Environmental and Evolutionary Biology**<br>
 <span class="cv-institution">University of Louisiana at Lafayette (2026)</span>
 
-**MSc, Ecology and Evolutionary Biology**
+**MSc, Ecology and Evolutionary Biology**<br>
 <span class="cv-institution">University of Toronto (2020)</span>
 
 ## Appointments
 
-**Postdoctoral Researcher**
+**Postdoctoral Researcher**<br>
 <span class="cv-institution">School of Biological Sciences, University of Louisiana at Lafayette (2026–present)</span>
 
-**Adjunct Instructor**
+**Adjunct Instructor**<br>
 <span class="cv-institution">School of Geosciences, University of Louisiana at Lafayette (2026–present)</span>
