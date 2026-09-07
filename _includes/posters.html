@@ -1,4 +1,4 @@
-{% assign items_by_year = site.data.contributed | group_by: "date" | sort: "name" | reverse %}
+{% assign items_by_year = site.data.posters | group_by: "date" | sort: "name" | reverse %}
 {% for group in items_by_year %}
   <h3>{{ group.name }}</h3>
   <ul>
