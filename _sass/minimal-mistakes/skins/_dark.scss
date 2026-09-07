@@ -76,3 +76,9 @@ body.home-page #page-title {
 .course-term {
   color: $primary-color;
 }
+
+/* Talks/Posters: color the event + location line coffee, matching the
+   site's resting-link color for a consistent accent */
+.presentation-venue {
+  color: $link-color;
+}
