@@ -8,16 +8,16 @@
 #   role        - "Instructor", "Teaching Assistant", "Guest Lecturer", etc.
 #   description - one or two sentences on the course (optional)
 
-- code: "BIOL 112"
-  title: "Fundamentals of Biology I Lab"
-  years: "2020–2023"
-  terms: "Fall 2020, Winter 2021, Fall 2022, Fall 2023"
-  role: "Graduate Teaching Assistant"
+- code: "ENVS 150"
+  title: "Plant Sciences"
+  terms: "Fall 2026"
+  year: 2026
+  role: "Adjunct Instructor"
   institution: "University of Louisiana at Lafayette"
 
-- code: "BIO 512"
-  title: "Course Name"
-  term: "Spring"
-  year: 2026
-  role: "Instructor"
-  description: "A sentence describing the course."
+- code: "BIOL 433G"
+  title: "Plant Systematics and Biodiversity"
+  terms: "Winter 2025"
+  year: 2025
+  role: "Graduate Teaching Assistant"
+  institution: "University of Louisiana at Lafayette"
