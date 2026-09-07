@@ -13,6 +13,6 @@ You can either paste your CV content directly below as plain text/Markdown, or l
 
 **PhD, Field** — University Name (Year)
 
-## Experience
+## Appointments
 
 **Postdoctoral Researcher** — Institution (Year–present)
