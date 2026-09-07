@@ -1,31 +1,105 @@
 # One entry per talk. Sorted newest first automatically.
 #
 # Fields:
+#   date     - year
 #   authors  - presenter/author list, plain string (your name auto-bolds)
 #   title    - talk title
 #   event    - conference, seminar series, or invited event name
 #   location - city/institution, or "Virtual"
-#   date     - year
 #   url      - optional link (slides, video, abstract, event page)
 
-- authors: "Nicholas J. Kooyers, Fernando Hernández, Donna M. Hinrichs, Simon G. Innes, Andrea K. Turcu, Stacy D. Holt Jr, Courtney M. Patterson"
+- date: 2026
+  authors: "Nicholas J. Kooyers, Fernando Hernández, Donna M. Hinrichs, Simon G. Innes, Andrea K. Turcu, Stacy D. Holt Jr, Courtney M. Patterson"
   title: "Rapid adaptation as a restoration strategy: Experimental assisted gene flow impacts on threatened monkeyflower populations"
   event: "Botany"
-  location: "Tuscon, AZ"
-  date: "2026"
-  url:
+  location: "Tucson, AZ"
 
-- authors: "Stacy D. Holt Jr, Nicholas J. Kooyers, Simon G. Innes, Lana F. Gaspard, Braden I. Doucet, Courtney M. Patterson"
+- date: 2026
+  authors: "Stacy D. Holt Jr, Nicholas J. Kooyers, Simon G. Innes, Lana F. Gaspard, Braden I. Doucet, Courtney M. Patterson"
   title: "Experimentally variable growing seasons influence demography and create complex fitness landscapes in an annual monkeyflower"
   event: "Botany"
-  location: "Tuscon, AZ"
-  date: "2026"
-  url:
+  location: "Tucson, AZ"
 
-- authors: "Simon G. Innes, Liza M. Holeski, Nicholas J. Kooyers"
+- date: 2025
+  authors: "Simon G. Innes, Liza M. Holeski, Nicholas J. Kooyers"
   title: "Ecological convergence of trait syndromes despite evolutionary history in a perennial monkeyflower, _Mimulus moschatus_"
   event: "Evolution"
   location: "Athens, GA"
-  date: "2025"
-  url:
 
+- date: 2025
+  authors: "Donna M. Hinrichs, Courtney M. Patterson, Stacy D. Holt Jr, Andrea K. Turcu, Simon G. Innes, Nicholas J. Kooyers"
+  title: "The genomic and phenotypic consequences of experimental assisted gene flow in _Mimulus guttatus_"
+  event: "Evolution"
+  location: "Athens, GA"
+
+- date: 2024
+  authors: "Lucas J. Albano, Cristina C. Bastias, Aurélien Estarague, Brandon T. Hendrickson, Simon G. Innes, Nevada King, Courtney Patterson, Adriana Puentes, Amelia Tudoran, François Vasseur, Cyrille Violle, Nicholas J. Kooyers, Marc T. J. Johnson"
+  title: "Adaptation to environmental variation and manipulation in a cosmopolitan plant"
+  event: "Evolution Joint Congress"
+  location: "Montréal, QC"
+
+- date: 2024
+  authors: "Andrea K. Turcu, Donna Hinrichs, Courtney M. Patterson, Simon G. Innes, Nicholas J. Kooyers"
+  title: "Responses to extreme climatic events: Selection as a silver lining or an evolutionary trap?"
+  event: "Evolution Joint Congress"
+  location: "Montréal, QC"
+
+- date: 2024
+  authors: "Donna Hinrichs, Andrea Turcu, Simon G. Innes, Courtney M. Patterson, Nicholas J. Kooyers"
+  title: "Rapid evolutionary rescue follows assisted gene flow in threatened _Mimulus guttatus_ populations"
+  event: "Evolution Joint Congress"
+  location: "Montréal, QC"
+
+- date: 2024
+  authors: "Stacy D. Holt Jr, Simon G. Innes, Jace P. Segura, Elissa Harb, Courtney M. Patterson, Nicholas J. Kooyers"
+  title: "Experimentally variable growing seasons create complex fitness landscapes in an annual monkeyflower"
+  event: "GRC Salt and Water Stress in Plants"
+  location: "Newry, ME"
+
+- date: 2023
+  authors: "Simon G. Innes, Nicholas J. Kooyers"
+  title: "The evolutionary ecology of adaptation in _Mimulus moschatus_"
+  event: "UL Colloquium Series"
+  location: "Lafayette, LA"
+
+- date: 2023
+  authors: "Lucas J. Albano, Simon G. Innes, Nevada King, Nicholas J. Kooyers, Courtney M. Patterson, Adriana Puentes, François Vasseur, Cyrille Violle, Marc T. J. Johnson"
+  title: "Adaptation to climatic variation in the native and introduced ranges of a cosmopolitan plant"
+  event: "CSEE Anual Conference"
+  location: "Winnipeg, MB"
+
+- date: 2023
+  authors: "Paul Battlay, Brandon Hendrickson, Jonas Mendez-Reneau, Lucas J. Albano, James Santangelo, Nevada King, Courtney Patterson, Simon G. Innes, Rob Ness, Francois Vasseur, Cyrille Violle, Andriana Puentes, Marc T. J. Johnson, Kathryn Hodgins, Nicholas J. Kooyers"
+  title: "Rapid adaptation following the worldwide introduction of cosmopolitan weed"
+  event: "Evolution"
+  location: "Albuquerque, NM"
+
+- date: 2022
+  authors: "Lucas J. Albano, Simon G. Innes, Nevada King, Courtney Patterson, Adriana Puentes, François Vasseur, Cyrille Violle, Nicholas J. Kooyers, Marc T. J. Johnson"
+  title: "Adaptation to climate in the native and introduced ranges of a cosmopolitan plant"
+  event: "ESEB Congress"
+  location: "Prague, Czech Republic"
+
+- date: 2021
+  authors: "Simon G. Innes, Nicholas J. Kooyers"
+  title: "The evolutionary ecology of Mimulus moschatus"
+  event: "Evolution"
+  location: "Virtual"
+
+- date: 2020
+  authors: "Simon G. Innes, James S. Santangelo, Nicholas J. Kooyers, Kenneth M. Olsen, Marc T. J. Johnson"
+  title: "Evolution in response to climate in the native and introduced ranges of a globally distributed plant"
+  event: "Graduate Student Symposium"
+  location: "Lafayette, LA"
+
+- date: 2019
+  authors: "Simon G. Innes, James S. Santangelo, Nicholas J. Kooyers, Kenneth M. Olsen, Marc T. J. Johnson"
+  title: "Adaptation to climate in the native and introduced range of _Trifolium repens_"
+  event: "Evolution"
+  location: "Providence, RI"
+
+- date: 2019
+  authors: "Simon G. Innes"
+  title: "Latitudinal clines in Trifolium repens: then and now"
+  event: "Atwood Colloquium"
+  location: "Toronto, ON"
