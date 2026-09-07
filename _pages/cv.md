@@ -5,13 +5,13 @@ permalink: /cv/
 author_profile: true
 ---
 
-You can either paste your CV content directly below as plain text/Markdown, or link out to a PDF:
-
 [Download my CV (PDF)](/files/cv.pdf)
 
 ## Education
 
-**PhD, Field** — University Name (Year)
+**PhD, Environmental and Evolutionary Biology** — University of Louisiana at Lafayette (2026)
+
+**MSc, Ecology and Evolutionary Biology** – University of Toronto (2020)
 
 ## Appointments
 
