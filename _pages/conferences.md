@@ -2,12 +2,13 @@
 layout: single
 permalink: /conferences/
 author_profile: true
-title: "Conference Presentations"
+title: "Conference Presentations and Posters"
 classes: wide
 ---
 
-## Invited talks
-{% include invited.html %}
-
 ## Contributed presentations
 {% include contributed.html %}
+
+
+## Invited talks
+{% include invited.html %}
