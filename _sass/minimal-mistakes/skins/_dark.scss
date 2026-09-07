@@ -90,8 +90,15 @@ body.home-page #page-title {
   max-width: 250px;
 }
 
-/* Left-align the avatar to match the left-aligned name/bio/links below it
-   (the theme centers it by default) */
+/* Left-align the avatar to match the left-aligned name/bio/links below it.
+   text-align alone had no effect, so the centering is coming from margin
+   auto on the image itself — override that directly. */
 .sidebar.sticky .author__avatar {
   text-align: left;
+}
+
+.sidebar.sticky .author__avatar img {
+  margin-left: 0;
+  margin-right: 0;
+  display: block;
 }
