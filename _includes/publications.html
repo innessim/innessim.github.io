@@ -7,9 +7,7 @@
     {% for paper in group.items %}
       <li>
         <p>
-          {% assign authors_before = paper.authors | split: "Simon G. Innes" | first %}
-          {% assign authors_after = paper.authors | split: "Simon G. Innes" | last %}
-          {{ authors_before }}<strong class="author-name">Simon G. Innes</strong>{{ authors_after }}.
+          {{ paper.authors | replace: "Simon G. Innes", "<strong class='author-name'>Simon G. Innes</strong>" | markdownify | remove: "<p>" | remove: "</p>" | strip }}.
           {{ paper.year }}.
           {{ paper.title | markdownify | remove: "<p>" | remove: "</p>" | strip }},
           <em>{{ paper.journal }}</em>{% if paper.volume %} <strong>{{ paper.volume }}</strong>{% if paper.issue %}({{ paper.issue }}){% endif %}:{% endif %} {{ paper.pages }}.
