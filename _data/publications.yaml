@@ -26,20 +26,34 @@
   volume: "96"
   issue: "1"
   pages: "e70043"
-  doi-url:
+  doi-url: "https://doi.org/10.1002/ecm.70043"
   pdf-url:
   data-url:
   github:
   openaccess: false
 
-- authors: "Donna M Hinrichs, Courtney M Patterson, Andrea Turcu, Stacy D Holt Jr, Simon G Innes, Nicholas J Kooyers"
+- authors: "Donna M. Hinrichs, Courtney M. Patterson, Andrea Turcu, Stacy D. Holt Jr., Simon G. Innes, Nicholas J. Kooyers"
   title: "Rapid adaptation follows experimental assisted gene flow in subset of annual monkeyflower populations"
   journal: "bioRxiv"
   year: 2025
-  volume: ""
-  issue: ""
-  pages: ""
-  pdf-url: "https://doi.org/10.64898/2025.12.02.689336"
+  volume: 
+  issue: 
+  pages: 
+  doi-url: "https://doi.org/10.64898/2025.12.02.689336"
+  pdf-url:
+  data-url:
+  github:
+  openaccess: false
+
+  - authors: "Simon G. Innes, Liza M. Holeski, Nicholas J. Kooyers"
+  title: "Ontogenetic and geographic phytochemical variation in _Mimulus moschatus_, a perennial monkeyflower"
+  journal: "Jounral of Chemical Ecology"
+  year: 2025
+  volume: "51"
+  issue: 
+  pages: "106"
+  doi-url: "https://doi.org/10.1007/s10886-025-01659-2"
+  pdf-url:
   data-url:
   github:
   openaccess: false
