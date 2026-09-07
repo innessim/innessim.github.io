@@ -83,22 +83,6 @@ body.home-page #page-title {
   color: $link-color;
 }
 
-/* Enlarge the sidebar headshot beyond the theme's default 110px.
-   Extra specificity (.sidebar.sticky) needed since the theme's own rule
-   loads after ours and would otherwise win at equal specificity. */
 .sidebar.sticky .author__avatar img {
   max-width: 250px;
-}
-
-/* Left-align the avatar to match the left-aligned name/bio/links below it.
-   text-align alone had no effect, so the centering is coming from margin
-   auto on the image itself — override that directly. */
-.sidebar.sticky .author__avatar {
-  text-align: left;
-}
-
-.sidebar.sticky .author__avatar img {
-  margin-left: 0;
-  margin-right: 0;
-  display: block;
 }
