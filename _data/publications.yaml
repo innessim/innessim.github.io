@@ -57,8 +57,8 @@
   pages: "106"
   doi-url: "https://doi.org/10.1007/s10886-025-01659-2"
   pdf-url: /files/Innes_2025.pdf
-  data-url:
-  github:
+  data-url: "https://doi.org/10.5061/dryad.c866t1gkj"
+  github: "https://github.com/innessim/musky_PPGs"
   openaccess: false
 
 - authors: "Nicholas J. Kooyers, Mark A. Genung, Simon G. Innes, Andrea Turcu, Donna M. Hinrichs, Benjamin J. LeBlanc, Courtney M. Patterson"
@@ -96,8 +96,8 @@
   pages: "1495–1511"
   doi-url: "https://doi.org/10.1111/evo.14514"
   pdf-url:
-  data-url:
-  github:
+  data-url: "https://doi.org/10.5061/dryad.76hdr7szt"
+  github: "https://github.com/innessim/MSc_project"
   openaccess: false
 
 - authors: "James S. Santangelo, Rob W. Ness, Beata Cohan, Connor R. Fitzpatrick, Simon G. Innes, Sophie Koch, ... , Marc T. J. Johnson"
