@@ -3,7 +3,7 @@ title: "Research"
 layout: single
 permalink: /research/
 author_profile: true
-classes: wide
+classes: wide research-page
 ---
 
 Speciation is one of the fundamental processes generating biodiversity, yet relatively little is known about how this process occurs, particularly in its early stages. My research examines how populations diverge and become reproductively isolated during the early stages of speciation. I am particularly interested in how adaptation to environmental variation and demographic history shape divergence among populations, and how adaptation and patterns of gene flow can, in turn, influence the evolution of reproductive isolation. I combine field and common-garden experiments, range-wide crossing designs, phenotypic analyses, and population genomics to connect ecological variation with the evolutionary processes that drive speciation.
