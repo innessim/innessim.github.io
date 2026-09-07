@@ -1,16 +1,51 @@
 # One entry per poster. Sorted newest first automatically.
 #
 # Fields:
+#   date     - year
 #   authors  - presenter/author list, plain string (your name auto-bolds)
 #   title    - poster title
 #   event    - conference/meeting name
 #   location - city, or "Virtual"
-#   date     - year
 #   url      - optional link (poster PDF, abstract)
 
-- authors: "Simon G. Innes"
-  title: "Poster title goes here"
-  event: "Conference Name"
-  location: "City, State/Country"
-  date: "2026"
-  url:
+- date: 2024
+  authors: "Simon G. Innes, Liza M. Holeski, Nicholas J. Kooyers"
+  title: "Intraspecific variation along environmental gradients in _Mimulus moschatus_"
+  event: "Evolution Joint Congress"
+  location: "Montréal, QC"
+
+- date: 2024
+  authors: "Stacy D. Holt Jr, Simon G. Innes, Jace P. Segura, Elissa Harb, Courtney M. Patterson, Nicholas J. Kooyers"
+  title: "Experimentally variable growing seasons create complex fitness landscapes in an annual monkeyflower"
+  event: "GRC Salt and Water Stress in Plants"
+  location: "Newry, ME"
+
+- date: 2023
+  authors: "Donna Hinrichs, Andrea Turcu, Simon G. Innes, Courtney M. Patterson, Nicholas J. Kooyers"
+  title: "Phenotypic and fitness consequences of assisted gene flow in _Mimulus guttatus_"
+  event: "Evolution"
+  location: "Albuquerque, NM"
+
+- date: 2023
+  authors: "Jace P. Segura, Simon G. Innes, Nicholas J. Kooyers"
+  title: "Productivity variability: How plant productivity varies with climate change"
+  event: "Advance Undergraduate Research Conference"
+  location: "Lafayette, LA"
+
+- date: 2022
+  authors: "Lucas J. Albano, Simon G. Innes, Nevada King, Courtney Patterson, Adriana Puentes, François Vasseur, Cyrille Violle, Nicholas J. Kooyers, Marc T. J. Johnson"
+  title: "Adaptation to climate in the native and introduced ranges of a cosmopolitan plant"
+  event: "ESEB Congress"
+  location: "Prague, Czech Republic"
+
+- date: 2022
+  authors: "Simon G. Innes, Nicholas J. Kooyers"
+  title: "Variation in life-history traits across heterogeneous environments"
+  event: "Evolution"
+  location: "Cleveland, OH"
+
+- date: 2022
+  authors: "Benjamin J. LeBlanc, Simon G. Innes, Nicholas J. Kooyers"
+  title: "Twilight of the golden age"
+  event: "Biology Undergraduate Research Symposium"
+  location: "Lafayette, LA"
