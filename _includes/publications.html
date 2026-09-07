@@ -7,7 +7,7 @@
     {% for paper in group.items %}
       <li>
         <p>
-          {{ paper.authors | replace: "Simon G. Innes", "<strong>Simon G. Innes</strong>" }}.
+          {{ paper.authors | replace: "Simon G. Innes", "<strong class=\"author-name\">Simon G. Innes</strong>" }}.
           {{ paper.year }}.
           {{ paper.title | markdownify | remove: "<p>" | remove: "</p>" | strip }},
           <em>{{ paper.journal }}</em>{% if paper.volume %} <strong>{{ paper.volume }}</strong>{% if paper.issue %}({{ paper.issue }}){% endif %}:{% endif %} {{ paper.pages }}.
