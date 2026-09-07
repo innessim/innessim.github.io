@@ -13,7 +13,9 @@ Speciation is one of the fundamental processes generating biodiversity, yet rela
 ### How do environmental differences shape population divergence?
 
 **Repeated trait evolution along environmental gradients**<br>
-[brief description of the *M. moschatus* work and main result plus the species comparison from JEC pub]
+In *Mimulus moschatus*, I found that suites of traits repeatedly track climatic gradients despite differences in evolutionary history. Populations from longer growing seasons tended to delay flowering and invest more in growth, whereas those from shorter growing seasons tended to reproduce earlier and invest less in long-term growth, despite differences in demographic history and patterns of gene flow among populations. These patterns suggest that similar environmental conditions can drive repeated phenotypic evolution across genetically divergent clusters.
+
+Phytochemical variation provides another example of this pattern. Total PPG concentrations and chemical profiles varied among *M. moschatus* populations, with patterns closely paralleling those found in the related *M. guttatus*. This similarity suggests the possibility of repeated evolutionary responses to shared environmental conditions, although the mechanisms driving these patterns remain uncertain.
 
 **Continued adaptation to climatic gradients**<br>
 Our work in *Trifolium repens* examined whether climate-associated clines in cyanogenesis have shifted over six decades in its native and introduced ranges. Although we found no clear evidence that warming has consistently shifted these clines through time, introduced populations showed continued adaptation to contemporary temperature gradients, with stronger contemporary clines approaching those found in the native range.
