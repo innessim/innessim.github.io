@@ -56,3 +56,23 @@ $nav-underline-color: #88633f !default;              /* darkroast — used only 
 body.home-page #page-title {
   display: none;
 }
+
+/* Teaching page: color-accent the term/date, add breathing room between
+   entries via a subtle hairline divider instead of headers */
+.courses-list {
+  list-style: none;
+  padding-left: 0;
+}
+
+.courses-list li {
+  padding: 1em 0;
+  border-bottom: 1px solid $border-color;
+}
+
+.courses-list li:last-child {
+  border-bottom: none;
+}
+
+.course-term {
+  color: $primary-color;
+}
