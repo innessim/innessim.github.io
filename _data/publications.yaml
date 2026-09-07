@@ -2,10 +2,11 @@
 # groups and sorts by year, newest year first, so you never need to manually
 # position a new entry in this file.
 #
-# Your name is automatically bolded (includes/publications.html) wherever it appears in
-# the authors field — just type it normally, no special formatting needed.
+# Your name is automatically bolded (includes/publications.html) wherever it appears
+# in the authors field — just type it normally, no special formatting needed.
 #
-# Scientific names in titles must still be manually italicized with _<Namus scientificus>_ or * *.
+# Scientific names in titles must still be manually italicized with _<Nomen scientificum>_ 
+# or *<Nomen scientificum>*.
 #
 # Fields:
 #   authors   - author list, plain string, e.g. "Author, A. & Innes, S.G."
