@@ -3,7 +3,6 @@ title: "CV"
 layout: single
 permalink: /cv/
 author_profile: true
-classes: wide
 ---
 
 [Download my CV (PDF)](/files/cv.pdf)
