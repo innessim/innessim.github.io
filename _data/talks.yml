@@ -8,9 +8,24 @@
 #   date     - year
 #   url      - optional link (slides, video, abstract, event page)
 
-- authors: "Simon G. Innes"
-  title: "Talk title goes here"
-  event: "Seminar Series, Department Name, University Name"
-  location: "City, State/Country"
+- authors: "Nicholas J. Kooyers, Fernando Hernández, Donna M. Hinrichs, Simon G. Innes, Andrea K. Turcu, Stacy D. Holt Jr, Courtney M. Patterson"
+  title: "Rapid adaptation as a restoration strategy: Experimental assisted gene flow impacts on threatened monkeyflower populations"
+  event: "Botany"
+  location: "Tuscon, AZ"
   date: "2026"
   url:
+
+- authors: "Stacy D. Holt Jr, Nicholas J. Kooyers, Simon G. Innes, Lana F. Gaspard, Braden I. Doucet, Courtney M. Patterson"
+  title: "Experimentally variable growing seasons influence demography and create complex fitness landscapes in an annual monkeyflower"
+  event: "Botany"
+  location: "Tuscon, AZ"
+  date: "2026"
+  url:
+
+- authors: "Simon G. Innes, Liza M. Holeski, Nicholas J. Kooyers"
+  title: "Ecological convergence of trait syndromes despite evolutionary history in a perennial monkeyflower, _Mimulus moschatus_
+  event: "Evolution"
+  location: "Athens, GA"
+  date: "2025"
+  url:
+
