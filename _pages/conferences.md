@@ -7,8 +7,8 @@ classes: wide
 ---
 
 ## Talks
-{% include contributed.html %}
+{% include talks.html %}
 
 
 ## Posters
-{% include invited.html %}
+{% include posters.html %}
