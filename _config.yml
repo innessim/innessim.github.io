@@ -121,7 +121,7 @@ author:
   email            :
   # fediverse      : "@you@instance.social"  # used for fediverse:creator meta tag
   links:
-    - label: "Google Scholar"
+    - label: "Scholar"
       icon: "fab fa-fw fa-google-scholar"
       url: "https://scholar.google.com/citations?user=mTv57KsAAAAJ&hl=en&oi=ao"
     - label: "GitHub"
