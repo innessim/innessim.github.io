@@ -99,3 +99,16 @@
   data-url:
   github:
   openaccess: false
+
+- authors: "James S. Santangelo, Rob W. Ness, Beata Cohan, Connor R. Fitzpatrick, Simon G. Innes, Sophie Koch, ... , Marc T. J. Johnson"
+  title: "Global urban environmental change drives adaptation in white clover"
+  journal: "Science"
+  year: 2022
+  volume: "375"
+  issue: "6586"
+  pages: "1275-1281"
+  doi-url: "https://doi.org/10.1126/science.abk0989"
+  pdf-url:
+  data-url:
+  github:
+  openaccess: false
