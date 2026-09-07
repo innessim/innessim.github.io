@@ -3,6 +3,7 @@ title: "Research"
 layout: single
 permalink: /research/
 author_profile: true
+classes: wide
 ---
 
 A short overview of your research program goes here. What questions do you ask, what systems or methods do you use, and why does it matter?
