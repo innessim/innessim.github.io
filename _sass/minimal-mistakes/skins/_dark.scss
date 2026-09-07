@@ -83,7 +83,9 @@ body.home-page #page-title {
   color: $link-color;
 }
 
-/* Enlarge the sidebar headshot beyond the theme's default 110px */
-.author__avatar img {
+/* Enlarge the sidebar headshot beyond the theme's default 110px.
+   Extra specificity (.sidebar.sticky) needed since the theme's own rule
+   loads after ours and would otherwise win at equal specificity. */
+.sidebar.sticky .author__avatar img {
   max-width: 175px;
 }
