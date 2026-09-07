@@ -1,16 +1,16 @@
-# One entry per contributed talk/poster. Sorted newest first automatically.
+# One entry per poster. Sorted newest first automatically.
 #
 # Fields:
-#   title    - presentation title
+#   authors  - presenter/author list, plain string (your name auto-bolds)
+#   title    - poster title
 #   event    - conference/meeting name
 #   location - city, or "Virtual"
 #   date     - year
-#   type     - "Talk" or "Poster" (optional, shown as a label)
-#   url      - optional link (slides, poster PDF, abstract)
+#   url      - optional link (poster PDF, abstract)
 
-- title: "Presentation title goes here"
+- authors: "Simon G. Innes"
+  title: "Poster title goes here"
   event: "Conference Name"
   location: "City, State/Country"
   date: "2026"
-  type: "Talk"
   url:
