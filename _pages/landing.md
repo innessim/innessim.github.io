@@ -14,7 +14,7 @@ feature_row2:
     title: "Musky monkeyflower"
     excerpt: "Mimulus moschatus — an emerging system."
     url: /systems/mimulus-moschatus/
-    btn_label: "Meet _M. moschatus_"
+    btn_label: "Meet <em>M. moschatus</em>"
     btn_class: "btn--primary"
 
 feature_row3:
@@ -23,7 +23,7 @@ feature_row3:
     title: "Common yellow monkeyflower"
     excerpt: "Mimulus guttatus — a long-established model system."
     url: /systems/mimulus-guttatus/
-    btn_label: "Meet _M. guttatus_"
+    btn_label: "Meet <em>M. guttatus</em>"
     btn_class: "btn--primary"
 
 # feature_row4:
