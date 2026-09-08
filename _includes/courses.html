@@ -4,7 +4,7 @@
   <li>
     <strong class="course-term">{{ course.terms }}</strong><br>
     <strong>{{ course.role }}</strong>, <em>{{ course.title }}</em> ({{ course.code }})<br>
-    {{ course.institution }}
+    <span class="course-institution">{{ course.institution }}</span>
     {% if course.description %}<br>{{ course.description }}{% endif %}
   </li>
 {% endfor %}
