@@ -15,10 +15,11 @@ $footer-background-color: #141413 !default;         /* blackestgravel */
 $link-color: #c7915b !default;                      /* coffee */
 $link-color-hover: #ffa724 !default;                 /* orange */
 $link-color-visited: #f4cf86 !default;               /* dirtyblonde */
+$darkroast-color: #88633f !default;                  /* darkroast */
 $masthead-link-color: $text-color !default;
 $masthead-link-color-hover: $primary-color !default;
 $navicon-link-color-hover: $code-background-color-dark !default;
-$nav-underline-color: #88633f !default;              /* darkroast — used only for the nav underline bar */
+$nav-underline-color: $darkroast-color !default;     /* used only for the nav underline bar */
 
 .author__urls.social-icons i,
 .author__urls.social-icons .svg-inline--fa,
@@ -101,13 +102,8 @@ body.home-page #page-title {
 
 /* Feature row images (homepage tiles) — coffee-colored border */
 .archive__item-teaser img {
-  border: 2px solid $link-color;
+  border: 4px solid $darkroast-color;
   border-radius: 4px;
-}
-
-/* Hero title/excerpt — right-aligned instead of left-aligned */
-.page__hero--overlay {
-  text-align: right;
 }
 
 .sidebar.sticky .author__avatar img {
