@@ -5,11 +5,11 @@ permalink: /
 header:
   overlay_color: "#000"
   overlay_filter: "0.4"
-  overlay_image: /assets/images/home/short_hike_sisters_crop.pdf
+  overlay_image: /assets/images/home/vista_shots/short_hike_sisters_crop.jpg
 excerpt: "University of Louisiana at Lafayette"
 
 feature_row2:
-  - image_path: /assets/images/home/plant_shots/young_sprout_Willamette.jpg
+  - image_path: /assets/images/home/plant_shots/sprout_droplets_crop.jpg
     alt: "_Mimulus moschatus_, musky monkeyflower"
     title: "Musky monkeyflower"
     excerpt: "Mimulus moschatus — an emerging system."
@@ -18,7 +18,7 @@ feature_row2:
     btn_class: "btn--primary"
 
 feature_row3:
-  - image_path: /assets/images/home/plant_shots/best_gutt.jpg
+  - image_path: /assets/images/home/plant_shots/best_gutt_crop.jpg
     alt: "_Mimulus guttatus_, yellow monkeyflower"
     title: "Common yellow monkeyflower"
     excerpt: "Mimulus guttatus — a long-established model system."
