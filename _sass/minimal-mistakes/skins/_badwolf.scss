@@ -78,26 +78,19 @@ body.home-page #page-title {
   color: $primary-color;
 }
 
-/* Talks/Posters: color the event + location line coffee, matching the
-   site's resting-link color for a consistent accent */
-.presentation-venue {
-  color: $link-color;
-}
-
-.cv-institution {
-  color: $link-color;
-}
-
-.author-name {
-  color: $link-color;
-}
-
-.research-page .page__content h3 {
-  color: $text-color;
-}
-
+/* Coffee-accent specific text elements across pages: talk/poster venues,
+   CV institution names, author names, and research result highlights */
+.presentation-venue,
+.cv-institution,
+.author-name,
 .research-result {
   color: $link-color;
+}
+
+/* Override: h3 on the research page specifically uses body text color, 
+not the accent color used elsewhere */
+.research-page .page__content h3 {
+  color: $text-color;
 }
 
 /* Feature row images (homepage tiles) — coffee-colored border */
@@ -106,6 +99,7 @@ body.home-page #page-title {
   border-radius: 4px;
 }
 
+/* Enlarge the sidebar author photo beyond the theme's default size */
 .sidebar.sticky .author__avatar img {
   max-width: 220px;
 }
