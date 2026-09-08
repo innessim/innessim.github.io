@@ -1,5 +1,5 @@
 ---
-title: "Postdoctoral Researcher"
+title: "Livin' the dream"
 layout: splash
 permalink: /
 header:
@@ -36,7 +36,9 @@ feature_row3:
 #    btn_class: "btn--primary"
 ---
 
-Welcome to my website! It is currently still under construction.
+<div class="text-center" markdown="1">
+Welcome to my website! It is still currently under construction.
+</div>
 
 {% include feature_row id="feature_row2" type="left" %}
 
