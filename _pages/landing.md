@@ -5,8 +5,8 @@ permalink: /
 header:
   overlay_color: "#000"
   overlay_filter: "0.4"
-  overlay_image: /assets/images/home/short_hike_sisters_crop.jpg
-excerpt: "Simon Innes, PhD"
+  overlay_image: /assets/images/home/short_hike_sisters_crop.pdf
+excerpt: "University of Louisiana at Lafayette"
 
 feature_row2:
   - image_path: /assets/images/home/plant_shots/young_sprout_Willamette.jpg
