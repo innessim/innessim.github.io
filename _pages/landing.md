@@ -27,12 +27,12 @@ feature_row3:
     btn_class: "btn--primary"
 
 # feature_row4:
-# - image_path: /assets/images/trifolium-repens.jpg
+# - image_path: /assets/images/home/plant_shots/clover_laffy_crop.jpg
 #   alt: "_Trifolium repens_, white clover"
 #    title: "White clover"
 #    excerpt: "Trifolium repens — a small legume with an outsized role in my research."
 #    url: /systems/trifolium-repens/
-#    btn_label: "Meet the clover"
+#    btn_label: "Meet <em.T. repens</em>"
 #    btn_class: "btn--primary"
 ---
 
@@ -44,4 +44,4 @@ Welcome to my website! It is still currently under construction.
 
 {% include feature_row id="feature_row3" type="right" %}
 
-{% comment %}{% include feature_row id="feature_row4" type="left" %}{% endcomment %}
+{% include feature_row id="feature_row4" type="left" %}
