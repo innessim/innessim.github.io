@@ -12,7 +12,7 @@ feature_row2:
   - image_path: /assets/images/home/plant_shots/sprout_droplets_crop.jpg
     alt: "_Mimulus moschatus_, musky monkeyflower"
     title: "Musky monkeyflower"
-    excerpt: "Mimulus moschatus — an emerging system."
+    excerpt: "_Mimulus moschatus_ — an emerging system."
     url: /systems/mimulus-moschatus/
     btn_label: "Meet <em>M. moschatus</em>"
     btn_class: "btn--primary"
@@ -21,7 +21,7 @@ feature_row3:
   - image_path: /assets/images/home/plant_shots/best_gutt_crop.jpg
     alt: "_Mimulus guttatus_, yellow monkeyflower"
     title: "Common yellow monkeyflower"
-    excerpt: "Mimulus guttatus — a long-established model system."
+    excerpt: "_Mimulus guttatus_ — a long-established model system."
     url: /systems/mimulus-guttatus/
     btn_label: "Meet <em>M. guttatus</em>"
     btn_class: "btn--primary"
