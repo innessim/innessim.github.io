@@ -36,9 +36,10 @@ feature_row3:
 #    btn_class: "btn--primary"
 ---
 
-Welcome to my website! It is still currently under construction.
+Welcome to my website! It is currently still under construction.
 
-{% include feature_row2 type="left" %}
+{% include feature_row id="feature_row2" type="left" %}
 
-{% include feature_row3 type="right" %}
-<!-- {% include feature_row4 type="left" %} --!>
+{% include feature_row id="feature_row3" type="right" %}
+
+{% comment %}{% include feature_row id="feature_row4" type="left" %}{% endcomment %}
