@@ -32,7 +32,7 @@ feature_row4:
     title: "White clover"
     excerpt: "_Trifolium repens_ — a small legume with a big role in my research."
     url: /systems/trifolium-repens/
-    btn_label: "Meet <em.>T. repens</em>"
+    btn_label: "Meet <em>T. repens</em>"
     btn_class: "btn--primary"
 ---
 
