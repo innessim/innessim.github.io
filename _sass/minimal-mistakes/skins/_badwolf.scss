@@ -63,19 +63,19 @@ body.home-page #page-title {
 .courses-list {
   list-style: none;
   padding-left: 0;
-}
 
-.courses-list li {
-  padding: 1em 0;
-  border-bottom: 1px solid $border-color;
-}
+  li {
+    padding: 1em 0;
+    border-bottom: 1px solid $border-color;
 
-.courses-list li:last-child {
-  border-bottom: none;
-}
+    &:last-child {
+      border-bottom: none;
+    }
+  }
 
-.course-term {
-  color: $primary-color;
+  .course-term {
+    color: $primary-color;
+  }
 }
 
 /* Coffee-accent specific text elements across pages: talk/poster venues,
