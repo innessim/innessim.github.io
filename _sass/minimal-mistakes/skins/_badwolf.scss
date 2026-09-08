@@ -97,9 +97,9 @@ not the accent color used elsewhere */
   color: $text-color;
 }
 
-/* Feature row images (homepage tiles) — coffee-colored border */
+/* Feature row images (homepage tiles) — orange border */
 .archive__item-teaser img {
-  border: 4px solid $darkroast-color;
+  border: 4px solid $link-color-hover;
   border-radius: 4px;
 }
 
