@@ -40,4 +40,4 @@ Welcome to my site! I am still currently building it.
 
 {% include feature_row2 type="left" %}
 {% include feature_row3 type="right" %}
-# {% include feature_row4 type="left" %}
+<!-- {% include feature_row4 type="left" %} --!>
