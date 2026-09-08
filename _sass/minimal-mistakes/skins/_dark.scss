@@ -105,6 +105,11 @@ body.home-page #page-title {
   border-radius: 4px;
 }
 
+/* Hero title/excerpt — right-aligned instead of left-aligned */
+.page__hero--overlay {
+  text-align: right;
+}
+
 .sidebar.sticky .author__avatar img {
   max-width: 220px;
 }
