@@ -4,7 +4,7 @@ layout: splash
 permalink: /
 header:
   overlay_color: "#000"
-  overlay_filter: "0.4"
+  overlay_filter: "0.3"
   overlay_image: /assets/images/home/vista_shots/short_hike_sisters_crop.jpg
 excerpt: "School of Biological Sciences<br>University of Louisiana at Lafayette"
 
