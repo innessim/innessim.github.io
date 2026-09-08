@@ -97,10 +97,9 @@ not the accent color used elsewhere */
   color: $text-color;
 }
 
-/* Feature row buttons — coffee instead of dirty-blonde, so they don't
-   blend into the heading/title color */
-.btn--primary {
-  background-color: $link-color;
+/* Feature row titles (homepage tiles) — override the general heading color */
+.feature__wrapper .archive__item-title {
+  color: $link-color-hover;
 }
 
 /* Feature row images (homepage tiles) — coffee border */
