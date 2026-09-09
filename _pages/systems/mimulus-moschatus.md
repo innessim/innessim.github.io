@@ -2,7 +2,7 @@
 title: "Musky monkeyflower"
 layout: single
 permalink: /systems/mimulus-moschatus/
-author_profile: false
+author_profile: true
 header:
   image: /assets/images/moschatus-header.jpg
 excerpt: "<em>Mimulus moschatus</em> — a system I am developing, growing alongside its better-known relative."
