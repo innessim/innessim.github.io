@@ -22,6 +22,7 @@ classes: wide
 ## Why I work with it
 
 Few wildflowers pack as much biological range into one species as *M. guttatus* – populations have evolved tolerance to toxic mine tailings, fast self-fertilization life cycles, or long-lived perennial life histories. That, combined with a well-developed set of genomic resources for a wild, non-model system, facilitates what you see in a population out in the field to what's actually happening in its genome. <br>
+
 Part of why I work with *M. guttatus* also comes down to community. It is a genuinely collaborative system, with a real culture of labs building on each other's work and decades of accumulated resources and knowledge to draw on. I've been able to contribute to a multi-year study of how natural heatwave events affect fitness and maternal provisioning in wild populations, work that has revealed a trend toward increased inbreeding in some of the highest-elevation populations, hinting that mating-system shifts may themselves be a response to a warming climate.
 
 For more, see [Research](/research/) or [Publications](/publications/).
