@@ -2,9 +2,11 @@
 title: "Common yellow monkeyflower"
 layout: single
 permalink: /systems/mimulus-guttatus/
+author_profile: true
 header:
   image: /assets/images/guttatus-header.jpg
 excerpt: "<em>Mimulus guttatus</em> — a long-established model system for local adaptation and ecological genetics."
+classes: wide
 ---
 
 *Mimulus guttatus* is one of the most well-studied wildflowers in ecological genetics — a long-running model system I've been fortunate to work within.
