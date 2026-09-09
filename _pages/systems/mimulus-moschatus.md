@@ -2,9 +2,11 @@
 title: "Musky monkeyflower"
 layout: single
 permalink: /systems/mimulus-moschatus/
+author_profile: false
 header:
   image: /assets/images/moschatus-header.jpg
 excerpt: "<em>Mimulus moschatus</em> — a system I am developing, growing alongside its better-known relative."
+classes: wide
 ---
 
 *Mimulus moschatus* doesn't get nearly the attention its cousin *M. guttatus* does — which is part of why I started working with it.
