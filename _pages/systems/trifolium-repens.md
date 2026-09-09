@@ -4,7 +4,7 @@ layout: single
 permalink: /systems/trifolium-repens/
 author_profile: true
 header:
-  image: /assets/images/trifolium-repens-header.jpg
+  image: /assets/images/home/plant_shots/clover_milan_crop.jpg
 excerpt: "<en>Trifolium repens</en> — a small legume with a large global distribution."
 classes: wide
 ---
