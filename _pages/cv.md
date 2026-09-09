@@ -23,8 +23,8 @@ Chemistry (minor), Environmental Sciences (minor)<br>
 
 **Postdoctoral Researcher**<br>
 School of Biological Sciences<br>
-<span class="cv-institution">University of Louisiana at Lafayette (2026–present)</span>
+<span class="cv-institution">University of Louisiana at Lafayette (2026)</span>
 
 **Adjunct Instructor**<br>
 School of Geosciences<br> 
-<span class="cv-institution">University of Louisiana at Lafayette (2026–present)</span>
+<span class="cv-institution">University of Louisiana at Lafayette (2026)</span>
