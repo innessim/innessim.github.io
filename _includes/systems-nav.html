@@ -1,0 +1,15 @@
+<nav class="systems-nav">
+  <h4 class="systems-nav__title">Other systems</h4>
+  <ul class="systems-nav__list">
+    {% for system in site.data.systems %}
+      {% unless system.url == page.url %}
+        <li class="systems-nav__item">
+          <a href="{{ system.url | relative_url }}">
+            <img src="{{ system.image | relative_url }}" alt="{{ system.title }}">
+            <span>{{ system.title }}</span>
+          </a>
+        </li>
+      {% endunless %}
+    {% endfor %}
+  </ul>
+</nav>
