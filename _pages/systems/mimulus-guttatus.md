@@ -15,7 +15,7 @@ excerpt: "<em>Mimulus guttatus</em> — a long-established model system for loca
 
 ## Natural history
 
-*Mimulus guttatus*' wide range of habitats has allowed it to adapt in a variety of ways, and the result is a species that's remarkably diverse from population to population. Some populations have evolved tolerance to grow on copper mine tailings or serpentine outcrops, soils that would be toxic to most other plants. Others have settled in at high elevation as long-lived perennials, while still others have evolved into fast, self-pollinating lineages with a much shorter life cycle than their progenitors. Together, this patchwork of locally adapted populations makes up what's known as the M. guttatus species complex, and it is part of why the species has become such a productive system for studying how populations adapt and diverge.
+*Mimulus guttatus*' wide range of habitats has allowed it to adapt in a variety of ways, and the result is a species that's remarkably diverse from population to population. Some populations have evolved tolerance to grow on copper mine tailings or serpentine outcrops, soils that would be toxic to most other plants. Others have settled in at high elevation or coastal habitats as long-lived perennials, while still others have evolved into fast, self-pollinating lineages with a much shorter life cycle than their progenitors. Together, this patchwork of locally adapted populations makes up what's known as the M. guttatus species complex, and it is part of why the species has become such a productive system for studying how populations adapt and diverge.
 
 ## Why I work with it
 
