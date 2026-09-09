@@ -7,7 +7,7 @@ systems_index: true
 header:
   overlay_image: /assets/images/home/plant_shots/clover_milan_crop.jpg
   overlay_filter: 0.4
-excerpt: "<en>Trifolium repens</en> — a small legume with a large global distribution."
+excerpt: "<em>Trifolium repens</em> — a small legume with a large global distribution."
 classes: wide
 ---
 
