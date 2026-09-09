@@ -123,7 +123,9 @@ body.home-page #page-title {
       max-width: 170px;
       border-radius: 50%;
       object-fit: cover;
-      border: 3px solid $link-color-hover;
+      padding: 5px;
+      border: 1px solid $link-color-hover;
+      box-sizing: border-box;
     }
 
     span {
