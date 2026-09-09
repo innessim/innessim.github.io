@@ -91,11 +91,11 @@ body.home-page #page-title {
    System pages (sidebar nav to other systems)
    -------------------------------------------------------------------------- */
 .systems-nav {
-  margin-top: 2em;
+  margin-top: 3em;
   text-align: center;
 
   &__title {
-    margin-bottom: 1.25em;
+    margin-bottom: 2em;
     color: $primary-color;
     font-size: 0.9em;
     text-transform: uppercase;
@@ -116,9 +116,9 @@ body.home-page #page-title {
     }
 
     img {
-      width: 100px;
-      height: 100px;
-      max-width: 100px;
+      width: 130px;
+      height: 130px;
+      max-width: 130px;
       border-radius: 50%;
       object-fit: cover;
       border: 2px solid $link-color-hover;
