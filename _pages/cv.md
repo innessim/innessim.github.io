@@ -5,7 +5,7 @@ permalink: /cv/
 author_profile: true
 ---
 
-[Download my CV (PDF)](/files/cv.pdf)
+[Download my CV (PDF)](/files/InnesS_CV_2026.pdf)
 
 ## Education
 
