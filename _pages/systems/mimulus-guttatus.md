@@ -2,7 +2,8 @@
 title: "Common yellow monkeyflower"
 layout: single
 permalink: /systems/mimulus-guttatus/
-author_profile: true
+author_profile: false
+systems_index: true
 header:
   overlay_image: /assets/images/home/plant_shots/BR1_crop.jpg
   overlay_filter: 0.4
