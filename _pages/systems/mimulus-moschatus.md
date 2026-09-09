@@ -2,7 +2,8 @@
 title: "Musky monkeyflower"
 layout: single
 permalink: /systems/mimulus-moschatus/
-author_profile: true
+author_profile: false
+systems_index: true
 header:
   overlay_image: /assets/images/home/plant_shots/massive_sequoia_pop_crop.jpg
   overlay_filter: 0.4
