@@ -4,8 +4,9 @@ layout: single
 permalink: /systems/mimulus-moschatus/
 author_profile: true
 header:
-  image: /assets/images/home/plant_shots/massive_sequoia_pop_crop.jpg
-excerpt: "<em>Mimulus moschatus</em> — a system I am developing, growing alongside its better-known relative."
+  overlay_image: /assets/images/home/plant_shots/massive_sequoia_pop_crop.jpg
+  overlay_filter: 0.4
+excerpt: "<em>Mimulus moschatus</em> — a system in development, growing alongside its better-known relative."
 classes: wide
 ---
 
