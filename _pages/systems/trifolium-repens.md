@@ -2,7 +2,8 @@
 title: "White clover"
 layout: single
 permalink: /systems/trifolium-repens/
-author_profile: true
+author_profile: false
+systems_index: true
 header:
   overlay_image: /assets/images/home/plant_shots/clover_milan_crop.jpg
   overlay_filter: 0.4
