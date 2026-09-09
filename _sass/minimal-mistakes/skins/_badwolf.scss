@@ -3,7 +3,10 @@
    Derived from the "badwolf" Vim colourscheme by Steve Losh
    https://github.com/sjl/badwolf
    ========================================================================== */
-/* Colors */
+
+/* --------------------------------------------------------------------------
+   Palette
+   -------------------------------------------------------------------------- */
 $background-color: #1c1b1a !default;              /* blackgravel */
 $text-color: #d9cec3 !default;                     /* brightgravel */
 $primary-color: #f4cf86 !default;                  /* dirtyblonde */
@@ -21,6 +24,10 @@ $masthead-link-color-hover: $primary-color !default;
 $navicon-link-color-hover: $code-background-color-dark !default;
 $nav-underline-color: $darkroast-color !default;     /* used only for the nav underline bar */
 
+
+/* --------------------------------------------------------------------------
+   Global / site-wide
+   -------------------------------------------------------------------------- */
 .author__urls.social-icons i,
 .author__urls.social-icons .svg-inline--fa,
 .page__footer-follow .social-icons i,
@@ -50,51 +57,22 @@ $nav-underline-color: $darkroast-color !default;     /* used only for the nav un
   color: $primary-color;
 }
 
+/* Enlarge the sidebar author photo beyond the theme's default size */
+.sidebar.sticky .author__avatar img {
+  max-width: 220px;
+}
+
+
+/* --------------------------------------------------------------------------
+   Homepage
+   -------------------------------------------------------------------------- */
+
 /* Hide the visible page title heading on the homepage only (identified by
    a custom "classes: home-page" set in its front matter) — it still exists
    in the HTML (so the browser tab title still works correctly), just not
    shown visually above the homepage content. */
 body.home-page #page-title {
   display: none;
-}
-
-/* Teaching page: color-accent the term/date, add breathing room between
-   entries via a subtle hairline divider instead of headers */
-.courses-list {
-  list-style: none;
-  padding-left: 0;
-
-  li {
-    padding: 1em 0;
-    border-bottom: 1px solid $border-color;
-
-    &:last-child {
-      border-bottom: none;
-    }
-  }
-
-  .course-term {
-    color: $primary-color;
-  }
-
-  .course-institution {
-    color: $link-color;
-  }
-}
-
-/* Coffee-accent specific text elements across pages: talk/poster venues,
-   CV institution names, author names, and research result highlights */
-.presentation-venue,
-.cv-institution,
-.author-name,
-.research-result {
-  color: $link-color;
-}
-
-/* Override: h3 on the research page specifically uses body text colour, 
-not the accent color used elsewhere */
-.research-page .page__content h3 {
-  color: $text-color;
 }
 
 /* Feature row titles (homepage tiles) — override the general heading color */
@@ -108,12 +86,10 @@ not the accent color used elsewhere */
   border-radius: 4px;
 }
 
-/* Enlarge the sidebar author photo beyond the theme's default size */
-.sidebar.sticky .author__avatar img {
-  max-width: 220px;
-}
 
-/* Sidebar systems nav (used on system pages instead of author profile) */
+/* --------------------------------------------------------------------------
+   System pages (sidebar nav to other systems)
+   -------------------------------------------------------------------------- */
 .systems-nav {
   margin-top: 2em;
   text-align: center;
@@ -155,4 +131,58 @@ not the accent color used elsewhere */
       font-size: 0.9em;
     }
   }
+}
+
+
+/* --------------------------------------------------------------------------
+   Teaching page
+   -------------------------------------------------------------------------- */
+
+/* Color-accent the term/date, add breathing room between entries via a
+   subtle hairline divider instead of headers */
+.courses-list {
+  list-style: none;
+  padding-left: 0;
+
+  li {
+    padding: 1em 0;
+    border-bottom: 1px solid $border-color;
+
+    &:last-child {
+      border-bottom: none;
+    }
+  }
+
+  .course-term {
+    color: $primary-color;
+  }
+
+  .course-institution {
+    color: $link-color;
+  }
+}
+
+
+/* --------------------------------------------------------------------------
+   Research page
+   -------------------------------------------------------------------------- */
+
+/* Override: h3 on the research page specifically uses body text colour,
+   not the accent color used elsewhere */
+.research-page .page__content h3 {
+  color: $text-color;
+}
+
+
+/* --------------------------------------------------------------------------
+   CV / Talks / cross-page accents
+   -------------------------------------------------------------------------- */
+
+/* Coffee-accent specific text elements across pages: talk/poster venues,
+   CV institution names, author names, and research result highlights */
+.presentation-venue,
+.cv-institution,
+.author-name,
+.research-result {
+  color: $link-color;
 }
