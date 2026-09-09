@@ -5,7 +5,7 @@ permalink: /systems/mimulus-guttatus/
 author_profile: true
 header:
   overlay_image: /assets/images/home/plant_shots/BR1_crop.jpg
-  Overlay_filer: 0.3
+  overlay_filer: 0.3
 excerpt: "<em>Mimulus guttatus</em> — a long-established model system for local adaptation and ecological genetics."
 classes: wide
 ---
