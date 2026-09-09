@@ -112,3 +112,36 @@ not the accent color used elsewhere */
 .sidebar.sticky .author__avatar img {
   max-width: 220px;
 }
+
+/* Sidebar systems nav (used on system pages instead of author profile) */
+.systems-nav {
+  margin-top: 1em;
+
+  &__title {
+    color: $primary-color;
+    font-size: 0.9em;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+  }
+
+  &__item {
+    text-align: center;
+    margin-bottom: 1.5em;
+
+    img {
+      width: 100px;
+      height: 100px;
+      max-width: 100px;
+      border-radius: 50%;
+      object-fit: cover;
+      border: 2px solid $link-color-hover;
+    }
+
+    span {
+      display: block;
+      margin-top: 0.5em;
+      color: $text-color;
+      font-size: 0.9em;
+    }
+  }
+}
