@@ -186,7 +186,10 @@ body.home-page #page-title {
    CV institution names, author names, and research result highlights */
 .presentation-venue,
 .cv-institution,
-.author-name,
 .research-result {
   color: $link-color;
+}
+
+.author-name {
+  color: $primary-color;
 }
