@@ -4,7 +4,7 @@
   <ul>
     {% for talk in group.items %}
       <li>
-        {{ talk.authors | replace: "Simon G. Innes", "<strong>Simon G. Innes</strong>" }}.
+        {{ talk.authors | replace: "Simon G. Innes", "<strong class='author-name'>Simon G. Innes</strong>" }}.
         {{ talk.title | markdownify | remove: "<p>" | remove: "</p>" | strip }}.<br>
         <span class="presentation-venue">{{ talk.event }}, {{ talk.location }}</span>.
         {% if talk.url %} <a href="{{ talk.url }}" target="_blank" rel="noopener">[Link]</a>{% endif %}
