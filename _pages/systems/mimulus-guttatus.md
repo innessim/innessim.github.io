@@ -8,7 +8,7 @@ header:
   overlay_image: /assets/images/home/plant_shots/BR1_crop.jpg
   overlay_filter: 0.4
 excerpt: "<em>Mimulus guttatus</em> — a long-established model system for local adaptation and ecological genetics."
-classes: wide
+classes: wide field-photos
 ---
 
 *Mimulus guttatus* is one of the most well-studied wildflowers in ecology and evolutionary biology — a long-running model system I've been fortunate to work within.
