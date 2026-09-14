@@ -31,4 +31,6 @@ For more, see [Research](/research/) or [Publications](/publications/).
 
 ## From the field
 
-{% include figure image_path="/assets/images/home/plant_shots/BR1.jpg" alt="Mimulus moschatus growing in a roadside creek bed" caption="A massive *Mimulus moschatus* population grows near Sunday Peak in the southern Sierra Nevada" popup=true %}
+{% include figure image_path="/assets/images/home/plant_shots/BR1.jpg" alt="Mimulus moschatus growing in a roadside creek bed" caption="A massive *Mimulus moschatus* population grows near Sunday Peak in California's southern Sierra Nevada" popup=true %}
+
+{% include figure image_path="/assets/images/home/plant_shots/sprout_droplets.jpg" alt="Mimulus moschatus emerging from moist soil" caption="Fresh *Mimulus moschatus* leaves emerge from rhizomes following a long winter under snow on Browder Ridge in Oregon's Western Cascades." popup=true %}
