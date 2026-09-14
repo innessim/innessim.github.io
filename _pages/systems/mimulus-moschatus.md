@@ -31,4 +31,4 @@ For more, see [Research](/research/) or [Publications](/publications/).
 
 ## From the field
 
-*(Photos coming soon)*
+{% include figure image_path="/assets/images/home/plant_shots/BR1.jpg" alt="Mimulus moschatus growing in a roadside creek bed" caption="A massive *Mimulus moschatus* population grows near Sunday Peak in the southern Sierra Nevada" popup=true %}
