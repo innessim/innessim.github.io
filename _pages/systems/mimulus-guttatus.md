@@ -31,8 +31,6 @@ For more, see [Research](/research/) or [Publications](/publications/).
 
 ## From the field
 
-## From the field
-
 {% include figure image_path="/assets/images/home/plant_shots/BR1.jpg" alt="Mimulus guttatus growing alongside M. moschatus in a roadside meadow" caption="Up on Browder Ridge in Oregon's Western Cascades, a healthy population of *Mimulus guttatus* grows alongside *M. moschatus* in a roadside meadow." popup=true %}
 
 {% include figure image_path="/assets/images/home/people_shots/driveII_popI.jpg" alt="A researcher stands on steep slope" caption="Up on Frissell Ridge in Oregon's Western Cascades, looking down over a steep meadow before getting to work." popup=true %}
