@@ -8,7 +8,7 @@ header:
   overlay_image: /assets/images/home/plant_shots/massive_sequoia_pop_crop.jpg
   overlay_filter: 0.4
 excerpt: "<em>Mimulus moschatus</em> — a system in development, growing alongside its better-known relative."
-classes: wide
+classes: wide field-photos
 ---
 
 *Mimulus moschatus* doesn't get nearly the attention its cousin *M. guttatus* does — which is part of why I started working with it.
@@ -31,6 +31,6 @@ For more, see [Research](/research/) or [Publications](/publications/).
 
 ## From the field
 
-{% include figure image_path="/assets/images/home/plant_shots/BR1.jpg" alt="Mimulus moschatus growing in a roadside creek bed" caption="A massive *Mimulus moschatus* population grows near Sunday Peak in California's southern Sierra Nevada" popup=true %}
+{% include figure image_path="/assets/images/home/plant_shots/massive_sequoia_pop.jpg" alt="Mimulus moschatus growing in a roadside creek bed" caption="A massive *Mimulus moschatus* population grows near Sunday Peak in California's southern Sierra Nevada" popup=true %}
 
 {% include figure image_path="/assets/images/home/plant_shots/sprout_droplets.jpg" alt="Mimulus moschatus emerging from moist soil" caption="Fresh *Mimulus moschatus* leaves emerge from rhizomes following a long winter under snow on Browder Ridge in Oregon's Western Cascades." popup=true %}
