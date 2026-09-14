@@ -11,7 +11,7 @@ excerpt: "<em>Mimulus guttatus</em> — a long-established model system for loca
 classes: wide field-photos
 ---
 
-*Mimulus guttatus* is one of the most well-studied wildflowers in ecology and evolutionary biology — a long-running model system I've been fortunate to work within.
+*Mimulus guttatus* is one of the most well-studied wildflowers in ecology and evolutionary biology — a long-running model system I've been fortunate to work with.
 
 ## Habitat & range
 
