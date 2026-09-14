@@ -8,7 +8,7 @@ header:
   overlay_image: /assets/images/home/plant_shots/clover_milan_crop.jpg
   overlay_filter: 0.4
 excerpt: "<em>Trifolium repens</em> — a small legume with a large global distribution."
-classes: wide
+classes: wide field-photos
 ---
 
 White clover is easy to overlook — it's the stuff growing in lawns and roadsides nearly everywhere — but that ubiquity is exactly what makes it interesting to study.
