@@ -7,7 +7,7 @@ systems_index: true
 header:
   overlay_image: /assets/images/home/plant_shots/massive_sequoia_pop_crop.jpg
   overlay_filter: 0.4
-excerpt: "<em>Mimulus moschatus</em> — a system in development, growing alongside its better-known relative."
+excerpt: "<em>Mimulus moschatus</em> — an emerging system, growing alongside its better-known relative."
 classes: wide field-photos
 ---
 
