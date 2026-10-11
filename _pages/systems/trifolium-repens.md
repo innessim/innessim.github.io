@@ -7,11 +7,11 @@ systems_index: true
 header:
   overlay_image: /assets/images/home/plant_shots/clover_milan_crop.jpg
   overlay_filter: 0.4
-excerpt: "<em>Trifolium repens</em> — a small legume with a large global distribution."
+excerpt: "<em>Trifolium repens</em> — a legume introduced around the world, and a model for rapid adaptation."
 classes: wide field-photos
 ---
 
-White clover is easy to overlook — it's the stuff growing in lawns and roadsides nearly everywhere — but that ubiquity is exactly what makes it interesting to study.
+White clover is one of the most widespread plants in the world, and a long-standing model for how populations adapt to their environments. Researchers noticed in the early 1900s that some plants release hydrogen cyanide when damaged and others don’t, and by the 1940s had worked out the biochemistry and genetics behind it. In the 1950s, surveys of wild populations around the world showed that cyanogenic plants become more common in warmer climates, a pattern since found along latitudinal and elevational gradients across the globe and, more recently, between cities and their surrounding countryside.
 
 ## Habitat & range
 
@@ -19,7 +19,7 @@ White clover is easy to overlook — it's the stuff growing in lawns and roadsid
 
 ## Natural history
 
-White clover is a low-growing perennial legume, spreading by stolons — horizontal stems that root at the nodes as they creep along the ground, letting a single plant form an expanding mat over time. Its trifoliate leaves, the source of its genus name, usually carry a pale, crescent-shaped chevron near the base of each leaflet. The flowers aren't self-compatible, so clover depends on insects, mainly bees, to cross-pollinate its clustered white or pale pink flower heads. Like other legumes, it fixes nitrogen through a symbiosis with rhizobia living in its roots, and it's known for its cyanogenesis polymorphism — some plants produce a chemical defense against herbivores, others don't, and the frequencies of this trait shift geographically with climate.
+White clover is a low-growing perennial legume, spreading by stolons — horizontal stems that root at the nodes as they creep along the ground, letting a single plant form an expanding mat over time. Its trifoliate leaves, the source of its genus name, usually carry a pale, crescent-shaped chevron near the base of each leaflet. The flowers aren't self-compatible, so clover depends on insects, mainly bees, to cross-pollinate its clustered white or pale pink flower heads. Like other legumes, it fixes nitrogen through a symbiosis with rhizobia living in its roots.
 
 ## Why I work with it
 
