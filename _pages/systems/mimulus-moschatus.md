@@ -23,9 +23,9 @@ Despite frequent overlap with *M. guttatus*, the two species differ in fine-scal
 
 ## Why I work with it
 
-When I started my PhD, it was a relatively understudied species. It is broadly distributed across a wide range of latitudes and elevations, and covered in dense glandular trichomes that provide both a physical and chemical defense against herbivores. That combination of wide distribution and a distinctive, defining trait made it a natural fit for asking questions no one had really explored in this species before. <br>
+When I started working with *M. moschatus*, it was a relatively understudied species. Its broad distribution and dense glandular trichomes offered an opportunity to investigate both how plant defenses vary across populations and how populations diverge genetically and reproductively. <br>
 
-My dissertation used *M. moschatus* to ask how populations diverge and become reproductively isolated in the earliest stages of speciation — combining common-garden experiments, range-wide crossing designs, and population genomics. One of the more surprising findings was that geographic distance alone didn't predict how differentiated populations were. Some nearby populations were strongly diverged, while others separated by hundreds of kilometres showed little differentiation — a pattern that lines up better with historical demographic processes, like past glaciation, than with present-day geography or climate.
+Understanding how populations diverge and become reproductively isolated in the earliest stages of speciation is a central question in my work with *M. moschatus*. I combine common-garden experiments, range-wide crossing designs, and population genomics to investigate this question. One of the more surprising findings was that geographic distance alone didn't predict how differentiated populations were. Some nearby populations were strongly diverged, while others separated by hundreds of kilometres showed little differentiation — a pattern that lines up better with historical demographic processes, like past glaciation, than with present-day geography or climate.
 
 For more, see [Research](/research/) or [Publications](/publications/).
 
