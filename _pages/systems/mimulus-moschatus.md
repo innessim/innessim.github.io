@@ -11,7 +11,7 @@ excerpt: "<em>Mimulus moschatus</em> — an emerging system, growing alongside i
 classes: wide field-photos
 ---
 
-*Mimulus moschatus* doesn't get nearly the attention its cousin *M. guttatus* does — which is part of why I started working with it.
+*Mimulus moschatus* has a surprisingly long botanical history but a much shorter one as an evolutionary model. Once a popular garden plant prized for its musk-like scent, it became the subject of a decades-long horticultural mystery when cultivated plants were reported to lose their fragrance around the turn of the twentieth century. Yet despite its close relationship to the well-studied *M. guttatus*, comparatively little is known about how populations of *M. moschatus* vary across its range and become reproductively isolated. That gap is part of what drew me to the species.
 
 ## Habitat & range
 
