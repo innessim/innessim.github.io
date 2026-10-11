@@ -11,7 +11,7 @@ excerpt: "<em>Mimulus guttatus</em> — a long-established model system for loca
 classes: wide field-photos
 ---
 
-*Mimulus guttatus* is one of the most well-studied wildflowers in ecology and evolutionary biology — a long-running model system I've been fortunate to work with.
+*Mimulus guttatus* has a long history as a model for understanding how plants adapt and diverge across environments. Grant’s 1924 monograph provided an early comprehensive account of monkeyflower diversity. In the 1950s, experimental studies of genetic differences and hybridization among races of *M. guttatus* began to establish the species as a system for investigating evolutionary divergence and reproductive isolation. By the 1970s and 80s, research on copper tolerance was revealing how the genetic basis of adaptation can also contribute to reproductive barriers. Since then, *M. guttatus* has become a leading system for studying ecological divergence and speciation, supported by a wealth of genomic resources.
 
 ## Habitat & range
 
@@ -19,13 +19,11 @@ classes: wide field-photos
 
 ## Natural history
 
-*Mimulus guttatus*' wide range of habitats has allowed it to adapt in a variety of ways, and the result is a species that's remarkably diverse from population to population. Some populations have evolved tolerance to grow on copper mine tailings or serpentine outcrops, soils that would be toxic to most other plants. Others have settled in at high elevation or coastal habitats as long-lived perennials, while still others have evolved into fast, self-pollinating lineages with a much shorter life cycle than their progenitors. Together, this patchwork of locally adapted populations makes up what's known as the M. guttatus species complex, and it is part of why the species has become such a productive system for studying how populations adapt and diverge.
+*Mimulus guttatus*' wide range of habitats has allowed it to adapt in a variety of ways, and the result is a species that's remarkably diverse from population to population. Some populations have evolved tolerance to grow on copper mine tailings or serpentine outcrops, soils that would be toxic to most other plants. Others have settled in at high elevation or coastal habitats as long-lived perennials, while still others have evolved into fast, self-pollinating lineages with a much shorter life cycle than their progenitors. Together, this patchwork of locally adapted populations makes up what's known as the *M. guttatus* species complex, and it is part of why the species has become such a productive system for studying how populations adapt and diverge.
 
 ## Why I work with it
 
-Few wildflowers pack as much biological range into one species as *M. guttatus* – populations have evolved tolerance to toxic mine tailings, fast self-fertilization life cycles, or long-lived perennial life histories. That, combined with a well-developed set of genomic resources for a wild, non-model system, facilitates what you see in a population out in the field to what's actually happening in its genome. <br>
-
-Part of why I work with *M. guttatus* also comes down to community. It is a genuinely collaborative system, with a real culture of labs building on each other's work and decades of accumulated resources and knowledge to draw on. I've been able to contribute to a multi-year study of how natural heatwave events affect fitness and maternal provisioning in wild populations, work that has revealed a trend toward increased inbreeding in some of the highest-elevation populations, hinting that mating-system shifts may themselves be a response to a warming climate.
+*Mimulus guttatus* has well-developed genomic resources for a wild plant, which facilitates connecting what you see in a field population to what’s happening in its genome. It also has a collaborative research community and decades of accumulated knowledge to build on. I’ve contributed to a multi-year study of how natural heatwave events affect fitness and maternal provisioning in wild populations, work that has revealed a trend toward increased inbreeding in some of the highest-elevation populations, hinting that mating-system shifts may themselves be a response to a warming climate.
 
 For more, see [Research](/research/) or [Publications](/publications/).
 
