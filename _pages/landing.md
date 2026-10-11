@@ -14,7 +14,6 @@ feature_row2:
     title: "Musky monkeyflower"
     excerpt: "_Mimulus moschatus_ — an emerging system."
     url: /systems/mimulus-moschatus/
-    btn_label: "Meet <em>M. moschatus</em>"
     btn_class: "btn--primary"
 
 feature_row3:
@@ -23,16 +22,14 @@ feature_row3:
     title: "Common yellow monkeyflower"
     excerpt: "_Mimulus guttatus_ — a long-established model system."
     url: /systems/mimulus-guttatus/
-    btn_label: "Meet <em>M. guttatus</em>"
     btn_class: "btn--primary"
 
 feature_row4:
   - image_path: /assets/images/home/plant_shots/clover_laffy_crop.jpg
     alt: "_Trifolium repens_, white clover"
     title: "White clover"
-    excerpt: "_Trifolium repens_ — a small legume with a big role in my research."
+    excerpt: "_Trifolium repens_ — a globally distributed model for rapid adaptation."
     url: /systems/trifolium-repens/
-    btn_label: "Meet <em>T. repens</em>"
     btn_class: "btn--primary"
 ---
 
