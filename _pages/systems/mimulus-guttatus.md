@@ -25,8 +25,6 @@ classes: wide field-photos
 
 *Mimulus guttatus* has well-developed genomic resources for a wild plant, which facilitates connecting what you see in a field population to what’s happening in its genome. It also has a collaborative research community and decades of accumulated knowledge to build on. I’ve contributed to a multi-year study of how natural heatwave events affect fitness and maternal provisioning in wild populations, work that has revealed a trend toward increased inbreeding in some of the highest-elevation populations, hinting that mating-system shifts may themselves be a response to a warming climate.
 
-For more, see [Research](/research/) or [Publications](/publications/).
-
 ## From the field
 
 {% include figure image_path="/assets/images/home/plant_shots/BR1.jpg" alt="Mimulus guttatus growing alongside M. moschatus in a roadside meadow" caption="Up on Browder Ridge in Oregon's Western Cascades, a healthy population of *Mimulus guttatus* grows alongside *M. moschatus* in a roadside meadow." popup=true %}
