@@ -29,6 +29,8 @@ Understanding how populations diverge and become reproductively isolated in the 
 
 ## From the field
 
-{% include figure image_path="/assets/images/home/plant_shots/massive_sequoia_pop.jpg" alt="Mimulus moschatus growing in a roadside creek bed" caption="A massive *Mimulus moschatus* population thrives in a dry creek bed near Sunday Peak in California's southern Sierra Nevada." popup=true %}
+{% include figure image_path="/assets/images/home/plant_shots/massive_sequoia_pop.jpg" alt="Mimulus moschatus growing in a roadside creek bed" caption="A massive *M. moschatus* population thrives in a dry creek bed near Sunday Peak in California's southern Sierra Nevada." popup=true %}
 
-{% include figure image_path="/assets/images/home/plant_shots/sprout_droplets.jpg" alt="Mimulus moschatus emerging from moist soil" caption="Fresh *Mimulus moschatus* leaves emerge from rhizomes following a long winter under snow on Browder Ridge in Oregon's Western Cascades." popup=true %}
+{% include figure image_path="/assets/images/home/plant_shots/sprout_droplets_crop.jpg" alt="Mimulus moschatus emerging from moist soil" caption="Fresh *M. moschatus* leaves emerge from rhizomes following a long winter under snow on Browder Ridge in Oregon's Western Cascades." popup=true %}
+
+{% include figure image_path="/assets/images/home/plant_shots/young_sprout_Willamette_crop.jpg" alt="Mimulus moschatus becoming covered in trichomes" caption="It is still early in the growing season but as this young *M. moschatus* continues to grow, it will become increasingly covered in trichomes." popup=true %}
