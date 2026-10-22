@@ -34,7 +34,7 @@ feature_row4:
 ---
 
 <div class="text-center" markdown="1">
-Welcome to my website! It is still currently under construction.
+Welcome to my website! I am currently seeking postdoctoral research opportunities and would love to connect with researchers whose interests align with my own.
 </div>
 
 {% include feature_row id="feature_row2" type="left" %}
