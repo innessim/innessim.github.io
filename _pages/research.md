@@ -38,5 +38,5 @@ Extreme climatic events such as heat waves are expected to become more frequent,
 
 ### What predicts reproductive compatibility between populations?
 
-<strong class="research-result"> Nearby populations are less compatible than distant ones </strong><br>
+<strong class="research-result"> Nearby populations are less compatible than more distant ones </strong><br>
 Compatibility between populations is generally expected to decline as they diverge, but it remains unclear how this plays out among populations that can still freely exchange genes. Using a range-wide crossing design in *M. moschatus*, I tested whether geographic and climatic distance predict compatibility between populations. Counterintuitively, compatibility increased with distance, such that populations that were geographically close and climatically similar produced fewer viable seeds than those that were more distant and dissimilar. Variation among crosses was substantial, and no population or parental line was consistently associated with higher or lower seed production. This idiosyncratic pattern suggests that some populations may have recently shifted in mating system, such as toward increased self-fertilization, causing inbreeding depression when crossed with nearby, genetically similar populations.
