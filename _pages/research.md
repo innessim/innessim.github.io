@@ -8,6 +8,25 @@ classes: wide research-page
 
 Speciation is one of the fundamental processes generating biodiversity, yet relatively little is known about how this process occurs, particularly in its early stages. My research examines how populations diverge and become reproductively isolated during the early stages of speciation. I am particularly interested in how environmental variation and demographic history shape divergence among populations, and how these processes can, in turn, influence the evolution of reproductive isolation. I combine field and common-garden experiments, range-wide crossing designs, phenotypic analyses, and population genomics to connect ecological variation with the evolutionary processes that drive speciation.
 
+<div class="concept-equation">
+  <div class="concept-equation__item">
+    <img src="/assets/images/icons/speciation.png" alt="">
+    <span>Speciation</span>
+  </div>
+  <span class="concept-equation__op">&sim;</span>
+  <div class="concept-equation__item">
+    <img src="/assets/images/icons/selection.png" alt="">
+    <span>Selection</span>
+  </div>
+  <span class="concept-equation__op">+</span>
+  <div class="concept-equation__item">
+    <img src="/assets/images/icons/neutral.png" alt="">
+    <span>Neutral processes</span>
+  </div>
+</div>
+
+<p class="concept-equation__caption"> What are the relative roles of selection and neutral processes in the early stages of speciation? </p>
+
 ## Evolution and the origins of reproductive isolation
 
 ### How do environmental differences and demographic history shape population divergence?
