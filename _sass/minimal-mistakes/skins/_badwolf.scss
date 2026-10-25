@@ -235,6 +235,7 @@ $concept-icon-size-small: 110px;  /* narrow screens */
     span {
       margin-top: 0.5em;
       font-size: 1em;
+      font-weight: bold;      /* new: bold labels under the icons */
       color: $text-color;
     }
   }
@@ -250,6 +251,7 @@ $concept-icon-size-small: 110px;  /* narrow screens */
   &__caption {
     flex-basis: 100%;
     text-align: center;
+    font-size: 1.1em;         /* new: slightly larger question */
     color: $link-color;
     margin: 0 0 2em;
   }
