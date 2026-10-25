@@ -205,8 +205,9 @@ $concept-icon-size: 90px; /* height of the large icons in the equation figure */
   font-weight: bold;
 }
 
-$concept-icon-size: 180px; /* large icons in the equation figure */
-$concept-icon-size-small: 110px; /* same icons on narrower screens */
+$concept-icon-size: 250px;        /* wide screens */
+$concept-icon-size-medium: 180px; /* medium screens */
+$concept-icon-size-small: 110px;  /* narrow screens */
 
 /* Large labeled equation under the opening summary */
 .concept-equation {
@@ -222,7 +223,7 @@ $concept-icon-size-small: 110px; /* same icons on narrower screens */
     flex-direction: column;
     align-items: center;
     text-align: center;
-    max-width: 240px;
+    max-width: 300px;
 
     img {
       height: $concept-icon-size;
@@ -240,7 +241,7 @@ $concept-icon-size-small: 110px; /* same icons on narrower screens */
 
   /* Symbol between large icons, centered on the icon rather than the label */
   &__op {
-    font-size: 3em;
+    font-size: 3.5em;
     line-height: $concept-icon-size;
     color: $primary-color;
   }
@@ -251,6 +252,19 @@ $concept-icon-size-small: 110px; /* same icons on narrower screens */
     text-align: center;
     color: $link-color;
     margin: 0 0 2em;
+  }
+}
+
+@media (max-width: 80em) {
+  .concept-equation {
+    &__item img {
+      height: $concept-icon-size-medium;
+    }
+
+    &__op {
+      font-size: 3em;
+      line-height: $concept-icon-size-medium;
+    }
   }
 }
 
