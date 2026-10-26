@@ -10,17 +10,17 @@ Speciation is one of the fundamental processes generating biodiversity, yet rela
 
 <div class="concept-equation">
   <div class="concept-equation__item">
-    <img src="/assets/images/icons/speciation.png" alt="">
+    <img src="/assets/images/icons/speciation-small.png" alt="">
     <span>Speciation</span>
   </div>
   <span class="concept-equation__op">&sim;</span>
   <div class="concept-equation__item">
-    <img src="/assets/images/icons/selection.png" alt="">
+    <img src="/assets/images/icons/selection-small.png" alt="">
     <span>Selection</span>
   </div>
   <span class="concept-equation__op">+</span>
   <div class="concept-equation__item">
-    <img src="/assets/images/icons/neutral.png" alt="">
+    <img src="/assets/images/icons/neutral-small.png" alt="">
     <span>Neutral processes</span>
   </div>
 </div>
